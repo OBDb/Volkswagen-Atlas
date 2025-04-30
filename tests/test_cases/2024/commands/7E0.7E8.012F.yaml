@@ -4,7 +4,7 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7E803412FC9
   expected_values:
-    VOLKSWAGEN_RANGE: 788.23529
+    FLI: 78.82353
 - response: 7E803412FCC
   expected_values:
-    VOLKSWAGEN_RANGE: 800
+    FLI: 80
