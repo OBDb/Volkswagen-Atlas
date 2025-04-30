@@ -1,0 +1,49 @@
+command_id: 710.77A.222AB8
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: |-
+    77A100B622AB8020600
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 25.89901
+- response: |-
+    77A100B622AB8020800
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 25.99901
+- response: |-
+    77A100B622AB8020900
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 26.04901
+- response: |-
+    77A100B622AB8020A00
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 26.099
+- response: |-
+    77A100B622AB8020B00
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 26.149
+- response: |-
+    77A100B622AB8020C00
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 26.199
+- response: |-
+    77A100B622AB8020D00
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 26.249
+- response: |-
+    77A100B622AB8020E00
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 26.299
+- response: |-
+    77A100B622AB8020F00
+    77A2100000000005555
+  expected_values:
+    VOLKSWAGEN_HVBAT_KWH: 26.34899
