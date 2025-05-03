@@ -1,0 +1,49 @@
+command_id: 7E0.7E8.22F40D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80462F40D00
+  expected_values:
+    VOLKSWAGEN_VSS: 0
+- response: 7E80462F40D0C
+  expected_values:
+    VOLKSWAGEN_VSS: 12
+- response: 7E80462F40D0D
+  expected_values:
+    VOLKSWAGEN_VSS: 13
+- response: 7E80462F40D14
+  expected_values:
+    VOLKSWAGEN_VSS: 20
+- response: 7E80462F40D16
+  expected_values:
+    VOLKSWAGEN_VSS: 22
+- response: 7E80462F40D26
+  expected_values:
+    VOLKSWAGEN_VSS: 38
+- response: 7E80462F40D28
+  expected_values:
+    VOLKSWAGEN_VSS: 40
+- response: 7E80462F40D2E
+  expected_values:
+    VOLKSWAGEN_VSS: 46
+- response: 7E80462F40D32
+  expected_values:
+    VOLKSWAGEN_VSS: 50
+- response: 7E80462F40D35
+  expected_values:
+    VOLKSWAGEN_VSS: 53
+- response: 7E80462F40D36
+  expected_values:
+    VOLKSWAGEN_VSS: 54
+- response: 7E80462F40D3A
+  expected_values:
+    VOLKSWAGEN_VSS: 58
+- response: 7E80462F40D3B
+  expected_values:
+    VOLKSWAGEN_VSS: 59
+- response: 7E80462F40D3E
+  expected_values:
+    VOLKSWAGEN_VSS: 62
+- response: 7E80462F40D4E
+  expected_values:
+    VOLKSWAGEN_VSS: 78

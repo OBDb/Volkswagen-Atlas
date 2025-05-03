@@ -3,6 +3,126 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: |-
+    77A100A622AB6005500
+    77A215507FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 85
+- response: |-
+    77A100A622AB6005A00
+    77A215A07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 90
+- response: |-
+    77A100A622AB6006400
+    77A216407FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 100
+- response: |-
+    77A100A622AB6006900
+    77A216907FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 105
+- response: |-
+    77A100A622AB6006E00
+    77A216E07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 110
+- response: |-
+    77A100A622AB6007300
+    77A217307FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 115
+- response: |-
+    77A100A622AB6007800
+    77A217807FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 120
+- response: |-
+    77A100A622AB6007D00
+    77A217D07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 125
+- response: |-
+    77A100A622AB6008200
+    77A218207FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 130
+- response: |-
+    77A100A622AB6008700
+    77A218707FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 135
+- response: |-
+    77A100A622AB6008C00
+    77A218C07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 140
+- response: |-
+    77A100A622AB6009100
+    77A219107FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 145
+- response: |-
+    77A100A622AB6009600
+    77A219607FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 150
+- response: |-
+    77A100A622AB6009B00
+    77A219B07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 155
+- response: |-
+    77A100A622AB600A000
+    77A21A007FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 160
+- response: |-
+    77A100A622AB600AA00
+    77A21AA07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 170
+- response: |-
+    77A100A622AB600AF00
+    77A21AF07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 175
+- response: |-
+    77A100A622AB600B400
+    77A21B407FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 180
+- response: |-
+    77A100A622AB600B900
+    77A21B907FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 185
+- response: |-
+    77A100A622AB600C300
+    77A21C307FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 195
+- response: |-
+    77A100A622AB600C800
+    77A21C807FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 200
+- response: |-
+    77A100A622AB600CD00
+    77A21CD07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 205
+- response: |-
+    77A100A622AB600D200
+    77A21D207FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 210
+- response: |-
+    77A100A622AB600DC00
+    77A21DC07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 220
+- response: |-
     77A100A622AB600F000
     77A21F007FD01555555
   expected_values:
@@ -12,3 +132,48 @@ test_cases:
     77A21F507FD01555555
   expected_values:
     VOLKSWAGEN_RANGE: 245
+- response: |-
+    77A100A622AB6013101
+    77A213107FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 305
+- response: |-
+    77A100A622AB6015401
+    77A215407FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 340
+- response: |-
+    77A100A622AB6015901
+    77A215907FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 345
+- response: |-
+    77A100A622AB6015E01
+    77A215E07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 350
+- response: |-
+    77A100A622AB6016301
+    77A216307FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 355
+- response: |-
+    77A100A622AB6016801
+    77A216807FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 360
+- response: |-
+    77A100A622AB6016D01
+    77A216D07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 365
+- response: |-
+    77A100A622AB6017201
+    77A217207FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 370
+- response: |-
+    77A100A622AB6017701
+    77A217707FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 375
