@@ -138,6 +138,11 @@ test_cases:
   expected_values:
     VOLKSWAGEN_RANGE: 305
 - response: |-
+    77A100A622AB6014F01
+    77A214F07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE: 335
+- response: |-
     77A100A622AB6015401
     77A215407FD01555555
   expected_values:
