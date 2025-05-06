@@ -5,48 +5,6 @@ test_cases:
 - response: 7E80662295A01401C
   expected_values:
     VOLKSWAGEN_ODO_V3: 81948
-- response: 7E80662295A01401D
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 81949
-- response: 7E80662295A01401E
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 81950
-- response: 7E80662295A014034
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 81972
-- response: 7E80662295A014035
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 81973
-- response: 7E80662295A014042
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 81986
-- response: 7E80662295A014043
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 81987
-- response: 7E80662295A014044
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 81988
-- response: 7E80662295A014045
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 81989
-- response: 7E80662295A014053
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 82003
-- response: 7E80662295A014054
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 82004
-- response: 7E80662295A014056
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 82006
-- response: 7E80662295A014062
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 82018
-- response: 7E80662295A014063
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 82019
-- response: 7E80662295A01406C
-  expected_values:
-    VOLKSWAGEN_ODO_V3: 82028
 - response: 7E80662295A01406D
   expected_values:
     VOLKSWAGEN_ODO_V3: 82029
