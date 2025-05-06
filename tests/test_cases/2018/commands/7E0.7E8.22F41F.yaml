@@ -8,6 +8,9 @@ test_cases:
 - response: 7E80562F41F0026
   expected_values:
     VOLKSWAGEN_RUNTM: 38
+- response: 7E80562F41F002C
+  expected_values:
+    VOLKSWAGEN_RUNTM: 44
 - response: 7E80562F41F0031
   expected_values:
     VOLKSWAGEN_RUNTM: 49
@@ -20,6 +23,12 @@ test_cases:
 - response: 7E80562F41F0052
   expected_values:
     VOLKSWAGEN_RUNTM: 82
+- response: 7E80562F41F005B
+  expected_values:
+    VOLKSWAGEN_RUNTM: 91
+- response: 7E80562F41F005C
+  expected_values:
+    VOLKSWAGEN_RUNTM: 92
 - response: 7E80562F41F005F
   expected_values:
     VOLKSWAGEN_RUNTM: 95
@@ -32,6 +41,9 @@ test_cases:
 - response: 7E80562F41F0070
   expected_values:
     VOLKSWAGEN_RUNTM: 112
+- response: 7E80562F41F0079
+  expected_values:
+    VOLKSWAGEN_RUNTM: 121
 - response: 7E80562F41F007D
   expected_values:
     VOLKSWAGEN_RUNTM: 125
@@ -41,12 +53,18 @@ test_cases:
 - response: 7E80562F41F0083
   expected_values:
     VOLKSWAGEN_RUNTM: 131
+- response: 7E80562F41F008A
+  expected_values:
+    VOLKSWAGEN_RUNTM: 138
 - response: 7E80562F41F0091
   expected_values:
     VOLKSWAGEN_RUNTM: 145
 - response: 7E80562F41F009C
   expected_values:
     VOLKSWAGEN_RUNTM: 156
+- response: 7E80562F41F00A8
+  expected_values:
+    VOLKSWAGEN_RUNTM: 168
 - response: 7E80562F41F00BA
   expected_values:
     VOLKSWAGEN_RUNTM: 186
