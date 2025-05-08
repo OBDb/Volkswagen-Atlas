@@ -8,15 +8,15 @@ test_cases:
   expected_values:
     VOLKSWAGEN_RANGE_V2: 85
 - response: |-
+    77A100A622AB6005F00
+    77A215F07FD01555555
+  expected_values:
+    VOLKSWAGEN_RANGE_V2: 95
+- response: |-
     77A100A622AB600A000
     77A21A007FD01555555
   expected_values:
     VOLKSWAGEN_RANGE_V2: 160
-- response: |-
-    77A100A622AB600AF00
-    77A21AF07FD01555555
-  expected_values:
-    VOLKSWAGEN_RANGE_V2: 175
 - response: |-
     77A100A622AB600F000
     77A21F007FD01555555
