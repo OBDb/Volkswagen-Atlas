@@ -1,19 +1,26 @@
 command_id: 7E0.7E8.22028D
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E80562028D014A
-  expected_values:
+- expected_values:
     VOLKSWAGEN_ECU_TEMP: 33
-- response: 7E80562028D015E
-  expected_values:
+  response: 7E80562028D014A
+- expected_values:
     VOLKSWAGEN_ECU_TEMP: 35
-- response: 7E80562028D0172
-  expected_values:
+  response: 7E80562028D015E
+- expected_values:
     VOLKSWAGEN_ECU_TEMP: 37
-- response: 7E80562028D017C
-  expected_values:
+  response: 7E80562028D0172
+- expected_values:
     VOLKSWAGEN_ECU_TEMP: 38
-- response: 7E80562028D0186
-  expected_values:
+  response: 7E80562028D017C
+- expected_values:
     VOLKSWAGEN_ECU_TEMP: 39
+  response: 7E80562028D0186
+- expected_values:
+    VOLKSWAGEN_ECU_TEMP: 55
+  response: 7E80562028D0226
+- expected_values:
+    VOLKSWAGEN_ECU_TEMP: 75
+  response: 7E80562028D02EE
+- expected_values:
+    VOLKSWAGEN_ECU_TEMP: 83
+  response: 7E80562028D033E
