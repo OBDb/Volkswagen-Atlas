@@ -1,0 +1,37 @@
+command_id: 710.77A.222AB6|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RANGE_V2: 375
+  response: |-
+    77A100A622AB6017701
+    77A217707FD01555555
+- expected_values:
+    VOLKSWAGEN_RANGE_V2: 380
+  response: |-
+    77A100A622AB6017C01
+    77A217C07FD01555555
+- expected_values:
+    VOLKSWAGEN_RANGE_V2: 385
+  response: |-
+    77A100A622AB6018101
+    77A218107FD01555555
+- expected_values:
+    VOLKSWAGEN_RANGE_V2: 390
+  response: |-
+    77A100A622AB6018601
+    77A218607FD01555555
+- expected_values:
+    VOLKSWAGEN_RANGE_V2: 395
+  response: |-
+    77A100A622AB6018B01
+    77A218B07FD01555555
+- expected_values:
+    VOLKSWAGEN_RANGE_V2: 400
+  response: |-
+    77A100A622AB6019001
+    77A219007FD01555555
+- expected_values:
+    VOLKSWAGEN_RANGE_V2: 405
+  response: |-
+    77A100A622AB6019501
+    77A219507FD01555555
