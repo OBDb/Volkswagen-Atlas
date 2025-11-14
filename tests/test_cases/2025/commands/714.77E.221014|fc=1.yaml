@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_AAT: 9.5
   response: '77E0462101477'
 - expected_values:
-    VOLKSWAGEN_AAT: 19
-  response: 77E046210148A
+    VOLKSWAGEN_AAT: 21
+  response: 77E046210148E
