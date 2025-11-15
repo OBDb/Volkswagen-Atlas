@@ -1,0 +1,8 @@
+command_id: 746.7B0.222613|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HVAC_INTERIOR_T: 33.2
+  response: 7B005622613014C
+- expected_values:
+    VOLKSWAGEN_HVAC_INTERIOR_T: 35
+  response: 7B005622613015E
