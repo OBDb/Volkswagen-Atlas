@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VSS: 0
+    VOLKSWAGEN_VSS_V2: 0
   response: 7E80462F40D00
 - expected_values:
-    VOLKSWAGEN_VSS: 2
+    VOLKSWAGEN_VSS_V2: 2
   response: 7E80462F40D02
 - expected_values:
-    VOLKSWAGEN_VSS: 17
+    VOLKSWAGEN_VSS_V2: 17
   response: 7E80462F40D11
 - expected_values:
-    VOLKSWAGEN_VSS: 21
+    VOLKSWAGEN_VSS_V2: 21
   response: 7E80462F40D15
 - expected_values:
-    VOLKSWAGEN_VSS: 22
+    VOLKSWAGEN_VSS_V2: 22
   response: 7E80462F40D16
 - expected_values:
-    VOLKSWAGEN_VSS: 38
+    VOLKSWAGEN_VSS_V2: 38
   response: 7E80462F40D26
 - expected_values:
-    VOLKSWAGEN_VSS: 46
+    VOLKSWAGEN_VSS_V2: 46
   response: 7E80462F40D2E
