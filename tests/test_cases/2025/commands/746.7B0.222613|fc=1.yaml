@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_HVAC_IAT: 31.4
   response: 7B005622613013A
 - expected_values:
-    VOLKSWAGEN_HVAC_IAT: 32.5
-  response: 7B0056226130145
+    VOLKSWAGEN_HVAC_IAT: 33.6
+  response: 7B0056226130150
