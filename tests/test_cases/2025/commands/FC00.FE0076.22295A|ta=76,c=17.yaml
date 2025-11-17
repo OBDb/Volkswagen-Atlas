@@ -1,0 +1,8 @@
+command_id: FC00.FE0076.22295A|ta=76,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ENG_ODO: 4511
+  response: 17FE00760662295A00119F
+- expected_values:
+    VOLKSWAGEN_ENG_ODO: 4513
+  response: 17FE00760662295A0011A1
