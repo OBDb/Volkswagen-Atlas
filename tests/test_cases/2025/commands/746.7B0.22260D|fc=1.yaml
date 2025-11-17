@@ -7,5 +7,8 @@ test_cases:
     VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 39.294
   response: 7B00462260D76
 - expected_values:
+    VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 40.626
+  response: 7B00462260D7A
+- expected_values:
     VOLKSWAGEN_FRONT_RIGHT_DEFL_T: 41.292
   response: 7B00462260D7C
