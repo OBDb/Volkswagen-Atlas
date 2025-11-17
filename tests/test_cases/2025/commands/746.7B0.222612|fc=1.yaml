@@ -1,8 +1,11 @@
 command_id: 746.7B0.222612|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 47
+  response: 7B00562261201D6
+- expected_values:
+    VOLKSWAGEN_HVAC_EVAP_T: 51
+  response: 7B00562261201FE
+- expected_values:
     VOLKSWAGEN_HVAC_EVAP_T: 52
   response: 7B0056226120208
-- expected_values:
-    VOLKSWAGEN_HVAC_EVAP_T: 53
-  response: 7B0056226120212
