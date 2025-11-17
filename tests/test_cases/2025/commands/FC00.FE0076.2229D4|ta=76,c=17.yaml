@@ -4,17 +4,8 @@ test_cases:
     VOLKSWAGEN_MOTOR_TRQ_REQ: 0.2
   response: 17FE0076056229D40002
 - expected_values:
-    VOLKSWAGEN_MOTOR_TRQ_REQ: 0.3
-  response: 17FE0076056229D40003
-- expected_values:
-    VOLKSWAGEN_MOTOR_TRQ_REQ: 9.8
-  response: 17FE0076056229D40062
-- expected_values:
     VOLKSWAGEN_MOTOR_TRQ_REQ: 21.4
   response: 17FE0076056229D400D6
-- expected_values:
-    VOLKSWAGEN_MOTOR_TRQ_REQ: 36.3
-  response: 17FE0076056229D4016B
 - expected_values:
     VOLKSWAGEN_MOTOR_TRQ_REQ: 217.2
   response: 17FE0076056229D4087C
