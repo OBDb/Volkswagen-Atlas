@@ -13,5 +13,8 @@ test_cases:
     VOLKSWAGEN_AIR_POLUTION: 0.3
   response: 7B0046226ED03
 - expected_values:
+    VOLKSWAGEN_AIR_POLUTION: 0.7
+  response: 7B0046226ED07
+- expected_values:
     VOLKSWAGEN_AIR_POLUTION: 1.4
   response: 7B0046226ED0E
