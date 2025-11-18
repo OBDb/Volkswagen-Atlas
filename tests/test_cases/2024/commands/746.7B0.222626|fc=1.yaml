@@ -1,8 +1,8 @@
 command_id: 746.7B0.222626|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FRONT_RIGHT_T_FLAP_ACT: 48
-  response: 7B006622626007D60
+    VOLKSWAGEN_FRONT_RIGHT_T_FLAP_ACT: 0
+  response: 7B006622626001D00
 - expected_values:
     VOLKSWAGEN_FRONT_RIGHT_T_FLAP_ACT: 99
   response: 7B00662262600E1C6
