@@ -1,0 +1,29 @@
+command_id: FC00.FE0076.2229D4|ta=76,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 27.8
+  response: 17FE0076056229D40116
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 27.9
+  response: 17FE0076056229D40117
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 28.3
+  response: 17FE0076056229D4011B
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 28.5
+  response: 17FE0076056229D4011D
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 28.7
+  response: 17FE0076056229D4011F
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 29.3
+  response: 17FE0076056229D40125
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 30.1
+  response: 17FE0076056229D4012D
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 30.4
+  response: 17FE0076056229D40130
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 31.7
+  response: 17FE0076056229D4013D
