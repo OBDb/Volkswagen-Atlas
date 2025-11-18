@@ -3,6 +3,21 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_RANGE_EST_CAN: 0
   response: |-
+    77A100D622AB500A600
+    77A21A6000000000000
+- expected_values:
+    VOLKSWAGEN_RANGE_EST_CAN: 0
+  response: |-
+    77A100D622AB500AF00
+    77A21AF000000000000
+- expected_values:
+    VOLKSWAGEN_RANGE_EST_CAN: 0
+  response: |-
+    77A100D622AB500B000
+    77A21B0000000000000
+- expected_values:
+    VOLKSWAGEN_RANGE_EST_CAN: 0
+  response: |-
     77A100D622AB500F000
     77A21F0000000000000
 - expected_values:
@@ -15,6 +30,11 @@ test_cases:
   response: |-
     77A100D622AB5010201
     77A2102000000000000
+- expected_values:
+    VOLKSWAGEN_RANGE_EST_CAN: 0
+  response: |-
+    77A100D622AB5018C01
+    77A218C000007FF0000
 - expected_values:
     VOLKSWAGEN_RANGE_EST_CAN: 0
   response: |-

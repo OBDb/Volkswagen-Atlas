@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_A_C_CMPR_SPEED: 4600
   response: 7B0046226032E
+- expected_values:
+    VOLKSWAGEN_A_C_CMPR_SPEED: 6200
+  response: 7B0046226033E
