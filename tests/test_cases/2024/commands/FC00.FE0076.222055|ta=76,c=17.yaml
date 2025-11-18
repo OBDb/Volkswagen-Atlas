@@ -1,0 +1,17 @@
+command_id: FC00.FE0076.222055|ta=76,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RADIATOR_FAN_DUTY: 10.16
+  response: 17FE00760562205503F8
+- expected_values:
+    VOLKSWAGEN_RADIATOR_FAN_DUTY: 15.63
+  response: 17FE007605622055061B
+- expected_values:
+    VOLKSWAGEN_RADIATOR_FAN_DUTY: 24.22
+  response: 17FE0076056220550976
+- expected_values:
+    VOLKSWAGEN_RADIATOR_FAN_DUTY: 24.61
+  response: 17FE007605622055099D
+- expected_values:
+    VOLKSWAGEN_RADIATOR_FAN_DUTY: 26.95
+  response: 17FE0076056220550A87
