@@ -12,3 +12,15 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ENG_ODO: 4521
   response: 17FE00760662295A0011A9
+- expected_values:
+    VOLKSWAGEN_ENG_ODO: 4532
+  response: 17FE00760662295A0011B4
+- expected_values:
+    VOLKSWAGEN_ENG_ODO: 4533
+  response: 17FE00760662295A0011B5
+- expected_values:
+    VOLKSWAGEN_ENG_ODO: 4534
+  response: 17FE00760662295A0011B6
+- expected_values:
+    VOLKSWAGEN_ENG_ODO: 4535
+  response: 17FE00760662295A0011B7
