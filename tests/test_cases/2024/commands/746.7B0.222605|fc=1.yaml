@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_REFRIG_P: 4.2
   response: 7B00462260515
 - expected_values:
-    VOLKSWAGEN_REFRIG_P: 12.2
-  response: 7B0046226053D
+    VOLKSWAGEN_REFRIG_P: 13
+  response: 7B00462260541
