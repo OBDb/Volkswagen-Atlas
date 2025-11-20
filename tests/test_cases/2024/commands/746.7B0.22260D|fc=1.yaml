@@ -1,8 +1,8 @@
 command_id: 746.7B0.22260D|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 33.966
-  response: 7B00462260D66
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 32.634
+  response: 7B00462260D62
 - expected_values:
     VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 54.612
   response: 7B00462260DA4
