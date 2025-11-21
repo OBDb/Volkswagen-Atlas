@@ -2,13 +2,10 @@ command_id: 7E0.7E8.221153
 test_cases:
 - expected_values:
     VOLKSWAGEN_EM_TORQ_1: 373.46875
-    VOLKSWAGEN_MISFIRE_2: 11951
   response: 7E8056211532EAF
 - expected_values:
     VOLKSWAGEN_EM_TORQ_1: 373.84375
-    VOLKSWAGEN_MISFIRE_2: 11963
   response: 7E8056211532EBB
 - expected_values:
     VOLKSWAGEN_EM_TORQ_1: 488.15625
-    VOLKSWAGEN_MISFIRE_2: 15621
   response: 7E8056211533D05
