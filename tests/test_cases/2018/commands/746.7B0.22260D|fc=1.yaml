@@ -1,0 +1,32 @@
+command_id: 746.7B0.22260D|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 9.99
+  response: 7B00462260D1E
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 10.323
+  response: 7B00462260D1F
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 10.656
+  response: 7B00462260D20
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 10.989
+  response: 7B00462260D21
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 12.654
+  response: 7B00462260D26
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 12.987
+  response: 7B00462260D27
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 13.32
+  response: 7B00462260D28
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 13.986
+  response: 7B00462260D2A
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 14.319
+  response: 7B00462260D2B
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_R_DEFL_T: 15.318
+  response: 7B00462260D2E
