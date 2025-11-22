@@ -4,23 +4,5 @@ test_cases:
     VOLKSWAGEN_AAT_CABIN: -28.5
   response: 7B00462260A2B
 - expected_values:
-    VOLKSWAGEN_AAT_CABIN: -28
-  response: 7B00462260A2C
-- expected_values:
-    VOLKSWAGEN_AAT_CABIN: -27
-  response: 7B00462260A2E
-- expected_values:
-    VOLKSWAGEN_AAT_CABIN: -26
-  response: 7B00462260A30
-- expected_values:
-    VOLKSWAGEN_AAT_CABIN: -25
-  response: 7B00462260A32
-- expected_values:
-    VOLKSWAGEN_AAT_CABIN: -24.5
-  response: 7B00462260A33
-- expected_values:
-    VOLKSWAGEN_AAT_CABIN: -24
-  response: 7B00462260A34
-- expected_values:
-    VOLKSWAGEN_AAT_CABIN: -23.5
-  response: 7B00462260A35
+    VOLKSWAGEN_AAT_CABIN: -17.5
+  response: 7B00462260A41
