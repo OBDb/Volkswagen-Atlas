@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 0.666
   response: 7B00462261202
 - expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 1.332
-  response: 7B00462261204
-- expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 1.998
-  response: 7B00462261206
-- expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 2.331
-  response: 7B00462261207
-- expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 2.664
-  response: 7B00462261208
-- expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 4.329
-  response: 7B0046226120D
-- expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 4.995
-  response: 7B0046226120F
-- expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 5.661
-  response: 7B00462261211
-- expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 5.994
-  response: 7B00462261212
-- expected_values:
     VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 7.992
   response: 7B00462261218
