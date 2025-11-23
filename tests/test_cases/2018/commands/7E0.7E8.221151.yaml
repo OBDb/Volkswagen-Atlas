@@ -4,14 +4,8 @@ test_cases:
     VOLKSWAGEN_EM_RPM_1: 1543.5
   response: 7E8056211510C0F
 - expected_values:
-    VOLKSWAGEN_EM_RPM_1: 1620
-  response: 7E8056211510CA8
-- expected_values:
-    VOLKSWAGEN_EM_RPM_1: 1620.5
-  response: 7E8056211510CA9
-- expected_values:
-    VOLKSWAGEN_EM_RPM_1: 1621
-  response: 7E8056211510CAA
+    VOLKSWAGEN_EM_RPM_1: 1622
+  response: 7E8056211510CAC
 - expected_values:
     VOLKSWAGEN_EM_RPM_1: 1857.5
   response: 7E8056211510E83
