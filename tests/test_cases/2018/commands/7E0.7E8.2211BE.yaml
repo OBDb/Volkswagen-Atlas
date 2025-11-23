@@ -7,5 +7,5 @@ test_cases:
     VOLKSWAGEN_EOT_V2: 8
   response: 7E8056211BE0008
 - expected_values:
-    VOLKSWAGEN_EOT_V2: 27
-  response: 7E8056211BE001B
+    VOLKSWAGEN_EOT_V2: 41
+  response: 7E8056211BE0029
