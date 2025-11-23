@@ -3,8 +3,8 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_RANGE_EST_CAN: 0
   response: |-
-    77A100D622AB5016301
-    77A2163000000000000
+    77A100D622AB5015401
+    77A2154000000000000
 - expected_values:
     VOLKSWAGEN_RANGE_EST_CAN: 0
   response: |-
