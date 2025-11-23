@@ -1,8 +1,8 @@
 command_id: 746.7B0.222612|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 0.333
-  response: 7B00462261201
+    VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 0
+  response: 7B00462261200
 - expected_values:
     VOLKSWAGEN_CLIMATE_T_AFTER_EVAP: 13.32
   response: 7B00462261228
