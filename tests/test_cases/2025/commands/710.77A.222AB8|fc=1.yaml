@@ -1,9 +1,9 @@
 command_id: 710.77A.222AB8|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_HVBAT_KWH: 16.04939
+    VOLKSWAGEN_HVBAT_KWH: 14.19946
   response: |-
-    77A100B622AB8014100
+    77A100B622AB8011C00
     77A2100000000005555
 - expected_values:
     VOLKSWAGEN_HVBAT_KWH: 25.54903
