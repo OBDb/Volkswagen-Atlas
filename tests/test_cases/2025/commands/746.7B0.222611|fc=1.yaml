@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 53.28
   response: 7B004622611A0
+- expected_values:
+    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 53.946
+  response: 7B004622611A2
+- expected_values:
+    VOLKSWAGEN_CLIMATE_LEG_DEFL_T: 54.612
+  response: 7B004622611A4
