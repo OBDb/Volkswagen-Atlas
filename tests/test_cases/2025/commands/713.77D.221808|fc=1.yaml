@@ -30,5 +30,9 @@ test_cases:
   response: 77D056218084038
 - expected_values:
     VOLKSWAGEN_HDC_ACTIVE: 0
+    VOLKSWAGEN_HDC_INCLINE: 64
+  response: 77D056218084040
+- expected_values:
+    VOLKSWAGEN_HDC_ACTIVE: 0
     VOLKSWAGEN_HDC_INCLINE: 80
   response: 77D056218084050
