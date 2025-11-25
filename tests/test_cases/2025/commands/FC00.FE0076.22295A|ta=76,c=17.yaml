@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_ENG_ODO: 4550
   response: 17FE00760662295A0011C6
+- expected_values:
+    VOLKSWAGEN_ENG_ODO: 4674
+  response: 17FE00760662295A001242
