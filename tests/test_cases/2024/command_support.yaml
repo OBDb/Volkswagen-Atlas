@@ -175,6 +175,7 @@ supported_commands_by_ecu:
   - 7E4.7EC.0105
   - 7E4.7EC.010D
   - 7E4.7EC.0142
+  - 7E4.7EC.220102
   "FC00":
   - FC00.FE0076.222005|ta=76,c=17:VOLKSWAGEN_BRAKE_BOOSTER_P
   - FC00.FE0076.222055|ta=76,c=17:VOLKSWAGEN_RADIATOR_FAN_DUTY
@@ -289,6 +290,8 @@ unsupported_commands_by_ecu:
   - 770.778.22BC03
   "7A0":
   - 7A0.7A8.22C00B
+  "7B3":
+  - 7B3.7BB.220100
   "7C6":
   - 7C6.7CE.22B002
   "7D1":
@@ -510,7 +513,6 @@ unsupported_commands_by_ecu:
   - 7E3.7EB.2102
   "7E4":
   - 7E4.7EC.220101
-  - 7E4.7EC.220102
   - 7E4.7EC.220103
   - 7E4.7EC.220104
   - 7E4.7EC.220105
