@@ -4,8 +4,8 @@ test_cases:
     VOLKSWAGEN_OIL_LEVEL: 0
   response: 7E8056211BA0000
 - expected_values:
-    VOLKSWAGEN_OIL_LEVEL: 39.932
-  response: 7E8056211BA26FF
+    VOLKSWAGEN_OIL_LEVEL: 34.812
+  response: 7E8056211BA21FF
 - expected_values:
     VOLKSWAGEN_OIL_LEVEL: 64.252
   response: 7E8056211BA3EBF
