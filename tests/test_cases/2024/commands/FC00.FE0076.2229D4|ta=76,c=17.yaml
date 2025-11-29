@@ -1,11 +1,14 @@
 command_id: FC00.FE0076.2229D4|ta=76,c=17
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MOTOR_TRQ_REQ: 0.2
-  response: 17FE0076056229D40002
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 0.1
+  response: 17FE0076056229D40001
 - expected_values:
     VOLKSWAGEN_MOTOR_TRQ_REQ: 50.8
   response: 17FE0076056229D401FC
+- expected_values:
+    VOLKSWAGEN_MOTOR_TRQ_REQ: 102.4
+  response: 17FE0076056229D40400
 - expected_values:
     VOLKSWAGEN_MOTOR_TRQ_REQ: 340.1
   response: 17FE0076056229D40D49

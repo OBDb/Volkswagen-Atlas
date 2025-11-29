@@ -4,5 +4,5 @@ test_cases:
     VOLKSWAGEN_APP_D: 0
   response: 7B00462F44900
 - expected_values:
-    VOLKSWAGEN_APP_D: 70.58824
-  response: 7B00462F449B4
+    VOLKSWAGEN_APP_D: 80.78431
+  response: 7B00462F449CE
