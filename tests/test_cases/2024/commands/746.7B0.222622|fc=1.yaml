@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 100
   response: 7B00662262200E3C8
+- expected_values:
+    VOLKSWAGEN_CLIMATE_FR_L_T_FLP_ACT_VALUE: 100
+  response: 7B00662262200E4C8
