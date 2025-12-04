@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RUNTM: 0
+  response: 7E80562F41F0000
+- expected_values:
+    VOLKSWAGEN_RUNTM: 63
+  response: 7E80562F41F003F
+- expected_values:
+    VOLKSWAGEN_RUNTM: 270
+  response: 7E80562F41F010E
+- expected_values:
+    VOLKSWAGEN_RUNTM: 485
+  response: 7E80562F41F01E5
+- expected_values:
+    VOLKSWAGEN_RUNTM: 681
+  response: 7E80562F41F02A9
+- expected_values:
+    VOLKSWAGEN_RUNTM: 850
+  response: 7E80562F41F0352
+- expected_values:
+    VOLKSWAGEN_RUNTM: 971
+  response: 7E80562F41F03CB
+- expected_values:
+    VOLKSWAGEN_RUNTM: 1074
+  response: 7E80562F41F0432
+- expected_values:
+    VOLKSWAGEN_RUNTM: 1238
+  response: 7E80562F41F04D6
+- expected_values:
+    VOLKSWAGEN_RUNTM: 1405
+  response: 7E80562F41F057D
