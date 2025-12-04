@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 3962
+  response: 7E80562F4310F7A
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 3964
+  response: 7E80562F4310F7C
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 3967
+  response: 7E80562F4310F7F
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 3970
+  response: 7E80562F4310F82
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 3972
+  response: 7E80562F4310F84
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 3973
+  response: 7E80562F4310F85
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 3975
+  response: 7E80562F4310F87
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 3976
+  response: 7E80562F4310F88
