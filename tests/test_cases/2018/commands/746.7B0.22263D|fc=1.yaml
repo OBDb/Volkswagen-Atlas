@@ -2,9 +2,7 @@ command_id: 746.7B0.22263D|fc=1
 test_cases:
 - expected_values:
     VOLKSWAGEN_CLIMATE_RR_DEFL_T: 4.995
-    VOLKSWAGEN_REAR_DEFLECTOR_T: 5
   response: 7B00462263D0F
 - expected_values:
     VOLKSWAGEN_CLIMATE_RR_DEFL_T: 27.306
-    VOLKSWAGEN_REAR_DEFLECTOR_T: 27.33333
   response: 7B00462263D52
