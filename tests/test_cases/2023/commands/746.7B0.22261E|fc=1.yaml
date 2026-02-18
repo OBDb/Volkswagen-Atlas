@@ -1,0 +1,10 @@
+command_id: 746.7B0.22261E|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RECIRC_FLAP_ACT_PCT: 0
+    VOLKSWAGEN_RECIRC_FLAP_ACT_STEPS: 80
+  response: '7B0 06 62 26 1E 00 50 00 '
+- expected_values:
+    VOLKSWAGEN_RECIRC_FLAP_ACT_PCT: 0
+    VOLKSWAGEN_RECIRC_FLAP_ACT_STEPS: 79
+  response: 7B00662261E004F00
