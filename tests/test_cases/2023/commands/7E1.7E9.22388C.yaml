@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 24084
   response: 7E90562388C145E
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 24340
+  response: 7E90562388C145F
