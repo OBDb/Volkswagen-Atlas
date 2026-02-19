@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_ENVD_CAM_IN_1: 1
   response: 7E805621213010B
+- expected_values:
+    VOLKSWAGEN_PQ35_ENVD_CAM_IN_1: 2
+  response: 7E805621213020A
+- expected_values:
+    VOLKSWAGEN_PQ35_ENVD_CAM_IN_1: 2
+  response: 7E805621213025C
+- expected_values:
+    VOLKSWAGEN_PQ35_ENVD_CAM_IN_1: 13
+  response: 7E8056212130D6A
