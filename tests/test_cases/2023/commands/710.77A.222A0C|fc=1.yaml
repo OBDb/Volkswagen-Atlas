@@ -20,3 +20,11 @@ test_cases:
     VOLKSWAGEN_BAT_SOC: 75
     VOLKSWAGEN_SSB_SOC: 75
   response: 77A04622A0C4B
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 76
+    VOLKSWAGEN_SSB_SOC: 76
+  response: 77A04622A0C4C
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 77
+    VOLKSWAGEN_SSB_SOC: 77
+  response: 77A04622A0C4D
