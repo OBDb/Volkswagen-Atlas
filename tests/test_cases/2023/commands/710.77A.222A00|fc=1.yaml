@@ -5,6 +5,10 @@ test_cases:
     VOLKSWAGEN_SSB_VT: 10.6
   response: 77A04622A0000
 - expected_values:
+    VOLKSWAGEN_MQB_GEN_TRG_V: 12.9
+    VOLKSWAGEN_SSB_VT: 12.9
+  response: 77A04622A0017
+- expected_values:
     VOLKSWAGEN_MQB_GEN_TRG_V: 13.3
     VOLKSWAGEN_SSB_VT: 13.3
   response: 77A04622A001B
