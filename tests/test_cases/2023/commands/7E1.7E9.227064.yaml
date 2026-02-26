@@ -7,8 +7,17 @@ test_cases:
     VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 7
   response: '7E9056270640007'
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 22
+  response: '7E9056270640016'
+- expected_values:
     VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 40
   response: '7E9056270640028'
 - expected_values:
+    VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 42
+  response: 7E905627064002A
+- expected_values:
     VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 131
   response: '7E9056270640083'
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_ENG_TORQUE: 1022
+  response: 7E90562706403FE
