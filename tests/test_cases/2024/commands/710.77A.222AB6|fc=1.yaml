@@ -6,6 +6,11 @@ test_cases:
     77A100A622AB6000000
     77A2100000000555555
 - expected_values:
+    VOLKSWAGEN_RANGE_V2: 10
+  response: |-
+    77A100A622AB6000A00
+    77A210A07FD01555555
+- expected_values:
     VOLKSWAGEN_RANGE_V2: 15
   response: |-
     77A100A622AB6000F00
