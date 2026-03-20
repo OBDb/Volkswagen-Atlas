@@ -1,0 +1,8 @@
+command_id: 7E0.2215B8|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: 3900
+  response: 7E8056215B80F3C
+- expected_values:
+    VOLKSWAGEN_MQB_DPF_DIFF_P_DYNAMIC_OFFSET: 3921
+  response: 7E8056215B80F51
