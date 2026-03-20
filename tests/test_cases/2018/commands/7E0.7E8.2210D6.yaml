@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210D6
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_1_RAIL_P_2: 0.0002
+  response: 7E8056210D60004
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_1_RAIL_P_2: 0.003
+  response: 7E8056210D6003C
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_1_RAIL_P_2: -0.0038
+  response: 7E8056210D6FFB4
+- expected_values:
+    VOLKSWAGEN_PQ35_INJ_1_RAIL_P_2: -0.00045
+  response: 7E8056210D6FFF7

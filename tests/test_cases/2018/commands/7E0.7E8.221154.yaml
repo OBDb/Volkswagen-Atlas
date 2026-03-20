@@ -10,5 +10,5 @@ test_cases:
     VOLKSWAGEN_EM_TORQ_2: 160
   response: '7E8056211541400'
 - expected_values:
-    VOLKSWAGEN_EM_TORQ_2: 171.0625
-  response: '7E8056211541562'
+    VOLKSWAGEN_EM_TORQ_2: 185.3125
+  response: 7E805621154172A
