@@ -2,7 +2,7 @@ command_id: 7E0.7E8.221213
 test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_ENVD_CAM_IN_1: 0
-  response: 7E805621213008C
+  response: 7E805621213007D
 - expected_values:
     VOLKSWAGEN_PQ35_ENVD_CAM_IN_1: 0
   response: 7E80562121300F5
