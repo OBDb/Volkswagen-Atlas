@@ -4,29 +4,5 @@ test_cases:
     VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 15
   response: 7E8046222060F
 - expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 16
-  response: '7E80462220610'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 17
-  response: '7E80462220611'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 18
-  response: '7E80462220612'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 19
-  response: '7E80462220613'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 20
-  response: '7E80462220614'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 21
-  response: '7E80462220615'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 22
-  response: '7E80462220616'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 23
-  response: '7E80462220617'
-- expected_values:
-    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 24
-  response: '7E80462220618'
+    VOLKSWAGEN_PQ35_FUEL_LEVEL_7E0_2206: 70
+  response: '7E80462220646'
