@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MQB_DQ250_SPECIFIED_IDLE_RPM: 7000
   response: 7E905623871023A
+- expected_values:
+    VOLKSWAGEN_MQB_DQ250_SPECIFIED_IDLE_RPM: 7000
+  response: '7E9056238710370'
