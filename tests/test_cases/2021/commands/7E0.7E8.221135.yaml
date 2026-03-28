@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_COOLANT_T: 6103.8
   response: 7E805621135F919
+- expected_values:
+    VOLKSWAGEN_COOLANT_T: 6104.4
+  response: 7E805621135F91F
