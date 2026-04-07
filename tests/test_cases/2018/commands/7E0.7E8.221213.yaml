@@ -11,4 +11,4 @@ test_cases:
   response: 7E80562121301FF
 - expected_values:
     VOLKSWAGEN_PQ35_ENVD_CAM_IN_1: 5
-  response: 7E805621213052F
+  response: '7E8056212130523'
