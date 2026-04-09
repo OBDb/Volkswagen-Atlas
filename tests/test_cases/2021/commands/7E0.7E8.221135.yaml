@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221135
 test_cases:
 - expected_values:
+    VOLKSWAGEN_COOLANT_T: 6101.1
+  response: 7E805621135F8FE
+- expected_values:
     VOLKSWAGEN_COOLANT_T: 6102.9
   response: 7E805621135F910
 - expected_values:
