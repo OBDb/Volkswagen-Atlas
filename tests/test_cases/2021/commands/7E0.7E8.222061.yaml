@@ -10,5 +10,5 @@ test_cases:
     VOLKSWAGEN_APP_POS1: 1.792
   response: '7E8056220610700'
 - expected_values:
-    VOLKSWAGEN_APP_POS1: 3.125
-  response: 7E8056220610C35
+    VOLKSWAGEN_APP_POS1: 4.204
+  response: 7E805622061106C
