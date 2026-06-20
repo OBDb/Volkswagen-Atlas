@@ -1,0 +1,6 @@
+command_id: 7E0.221152
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EM_RPM_2: 5958
+    VOLKSWAGEN_MISFIRES__CYL__2: 11916
+  response: 7E8056211522E8C
