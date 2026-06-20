@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_FUEL_P_REG: 0.06
   response: 7E8056211BF0006
+- expected_values:
+    VOLKSWAGEN_PQ35_FUEL_P_REG: 0.08
+  response: 7E8056211BF0008
