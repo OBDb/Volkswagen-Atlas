@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ODO_2_V3: 84229
+    VOLKSWAGEN_ODO_V4: 84229
+  response: 7E8076210E000014905
+- expected_values:
+    VOLKSWAGEN_ODO_2_V3: 84230
+    VOLKSWAGEN_ODO_V4: 84230
+  response: 7E8076210E000014906
