@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_EM_TORQ_2: 360.0625
   response: 7E8056211542D02
+- expected_values:
+    VOLKSWAGEN_EM_TORQ_2: 360.125
+  response: 7E8056211542D04
