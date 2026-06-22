@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221075
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_ADAPT_END_POS_CLOSED: 294.86
+  response: 7E9056210752E73
