@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: -25.0831
   response: 7E905621078059C
+- expected_values:
+    VOLKSWAGEN_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: -18.05846
+  response: 7E90562107805B8
