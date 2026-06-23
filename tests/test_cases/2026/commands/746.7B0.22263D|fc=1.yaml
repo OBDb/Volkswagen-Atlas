@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CLIMATE_RR_DEFL_T: 35.298
   response: 7B00462263D6A
+- expected_values:
+    VOLKSWAGEN_CLIMATE_RR_DEFL_T: 41.292
+  response: 7B00462263D7C
+- expected_values:
+    VOLKSWAGEN_CLIMATE_RR_DEFL_T: 41.958
+  response: 7B00462263D7E
+- expected_values:
+    VOLKSWAGEN_CLIMATE_RR_DEFL_T: 43.29
+  response: 7B00462263D82
