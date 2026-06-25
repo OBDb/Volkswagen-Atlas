@@ -1,0 +1,5 @@
+command_id: FC00.FE0076.2213A0|fc=1,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_COOLANT_T_MODELED_VALUE: -258.3
+  response: 17FE0076056213A00094
