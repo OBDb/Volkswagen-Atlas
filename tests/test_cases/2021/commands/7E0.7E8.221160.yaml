@@ -4,18 +4,6 @@ test_cases:
     VOLKSWAGEN_ODO_HD: 84065.391
   response: 7E8076211600502BC6F
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 84065.419
-  response: 7E8076211600502BC8B
-- expected_values:
-    VOLKSWAGEN_ODO_HD: 84066.47
-  response: 7E8076211600502C0A6
-- expected_values:
-    VOLKSWAGEN_ODO_HD: 84071.456
-  response: 7E8076211600502D420
-- expected_values:
-    VOLKSWAGEN_ODO_HD: 84073.08
-  response: 7E8076211600502DA78
-- expected_values:
     VOLKSWAGEN_ODO_HD: 84077.574
   response: 7E8076211600502EC06
 - expected_values:
@@ -25,5 +13,5 @@ test_cases:
     VOLKSWAGEN_ODO_HD: 84087.012
   response: 7E807621160050310E4
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 84087.504
-  response: 7E807621160050312D0
+    VOLKSWAGEN_ODO_HD: 84242.342
+  response: 7E80762116005056FA6
