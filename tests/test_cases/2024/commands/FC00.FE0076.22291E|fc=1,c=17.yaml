@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MISFIRES_1000_RPM_C3: 0
   response: 17FE00760562291E0000
+- expected_values:
+    VOLKSWAGEN_MISFIRES_1000_RPM_C3: 1
+  response: 17FE00760562291E0001
