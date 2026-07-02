@@ -1,6 +1,10 @@
 command_id: 712.77C.221812|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MQB_SWA: -613.565
+    VOLKSWAGEN_STEER_WHEEL_ANGLE: -613.625
+  response: 77C06621812ECD301
+- expected_values:
     VOLKSWAGEN_MQB_SWA: -602.565
     VOLKSWAGEN_STEER_WHEEL_ANGLE: -602.625
   response: 77C06621812ED2B01
