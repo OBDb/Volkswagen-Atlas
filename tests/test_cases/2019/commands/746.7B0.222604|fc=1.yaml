@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 11
   response: 7B0046226046E
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_LOAD: 13
+  response: 7B00462260482
