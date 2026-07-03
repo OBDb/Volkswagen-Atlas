@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_PQ35_HAL_PWM: 13
   response: 77904622BE70D
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_PWM: 19
+  response: 77904622BE713
