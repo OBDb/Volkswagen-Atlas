@@ -1,8 +1,0 @@
-command_id: FC00.FE0076.222920|fc=1,c=17
-test_cases:
-- expected_values:
-    VOLKSWAGEN_MISFIRES_1000_RPM_C2: 0
-  response: 17FE0076056229200000
-- expected_values:
-    VOLKSWAGEN_MISFIRES_1000_RPM_C2: 1
-  response: 17FE0076056229200001
