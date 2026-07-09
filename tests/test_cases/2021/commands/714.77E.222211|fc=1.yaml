@@ -1,0 +1,29 @@
+command_id: 714.77E.222211|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 0
+  response: '77E0462221100'
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 5.09804
+  response: 77E046222110D
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 6.27451
+  response: '77E0462221110'
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 6.66667
+  response: '77E0462221111'
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 7.05882
+  response: '77E0462221112'
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 7.45098
+  response: '77E0462221113'
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 7.84314
+  response: '77E0462221114'
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 10.19608
+  response: 77E046222111A
+- expected_values:
+    VOLKSWAGEN_PQ35_CHG_AIR_P: 10.58824
+  response: 77E046222111B

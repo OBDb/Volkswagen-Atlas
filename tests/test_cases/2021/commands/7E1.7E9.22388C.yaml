@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22388C
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 40472
+  response: 7E90562388C189E
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 64299
+  response: 7E90562388C2BFB
+- expected_values:
+    VOLKSWAGEN_MQB_TCM_IGNITION_CYCLES: 44
+  response: 7E90562388C2C00

@@ -1,0 +1,38 @@
+command_id: 710.77A.222A0C|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 54
+    VOLKSWAGEN_SSB_SOC: 54
+  response: 77A04622A0C36
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 57
+    VOLKSWAGEN_SSB_SOC: 57
+  response: 77A04622A0C39
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 65
+    VOLKSWAGEN_SSB_SOC: 65
+  response: 77A04622A0C41
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 72
+    VOLKSWAGEN_SSB_SOC: 72
+  response: 77A04622A0C48
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 73
+    VOLKSWAGEN_SSB_SOC: 73
+  response: 77A04622A0C49
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 74
+    VOLKSWAGEN_SSB_SOC: 74
+  response: 77A04622A0C4A
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 75
+    VOLKSWAGEN_SSB_SOC: 75
+  response: 77A04622A0C4B
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 76
+    VOLKSWAGEN_SSB_SOC: 76
+  response: 77A04622A0C4C
+- expected_values:
+    VOLKSWAGEN_BAT_SOC: 77
+    VOLKSWAGEN_SSB_SOC: 77
+  response: 77A04622A0C4D
