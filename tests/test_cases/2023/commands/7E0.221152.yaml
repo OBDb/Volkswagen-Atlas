@@ -1,0 +1,22 @@
+command_id: 7E0.221152
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EM_RPM_2: 5706
+    VOLKSWAGEN_MISFIRES__CYL__2: 11412
+  response: 7E8056211522C94
+- expected_values:
+    VOLKSWAGEN_EM_RPM_2: 5709
+    VOLKSWAGEN_MISFIRES__CYL__2: 11418
+  response: 7E8056211522C9A
+- expected_values:
+    VOLKSWAGEN_EM_RPM_2: 5710
+    VOLKSWAGEN_MISFIRES__CYL__2: 11420
+  response: 7E8056211522C9C
+- expected_values:
+    VOLKSWAGEN_EM_RPM_2: 5710.5
+    VOLKSWAGEN_MISFIRES__CYL__2: 11421
+  response: 7E8056211522C9D
+- expected_values:
+    VOLKSWAGEN_EM_RPM_2: 5736
+    VOLKSWAGEN_MISFIRES__CYL__2: 11472
+  response: 7E8056211522CD0
