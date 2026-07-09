@@ -1,0 +1,14 @@
+command_id: 70F.779.222BE6|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_I: 0.021
+  response: 77905622BE60015
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_I: 1.536
+  response: 77905622BE60600
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_I: 2.046
+  response: 77905622BE607FE
+- expected_values:
+    VOLKSWAGEN_PQ35_HAL_I: 6.296
+  response: 77905622BE61898

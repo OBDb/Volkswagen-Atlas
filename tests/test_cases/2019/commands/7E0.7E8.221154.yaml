@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EM_TORQ_2: 109.9375
+  response: 7E8056211540DBE
+- expected_values:
+    VOLKSWAGEN_EM_TORQ_2: 110
+  response: 7E8056211540DC0

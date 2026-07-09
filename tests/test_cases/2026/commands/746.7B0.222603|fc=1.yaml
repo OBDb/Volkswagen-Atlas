@@ -1,0 +1,20 @@
+command_id: 746.7B0.222603|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 2000
+  response: 7B00462260314
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 2200
+  response: 7B00462260316
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 3800
+  response: 7B00462260326
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 4600
+  response: 7B0046226032E
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 5200
+  response: 7B00462260334
+- expected_values:
+    VOLKSWAGEN_CLIMATE_A_C_COMP_SPD: 6000
+  response: 7B0046226033C
