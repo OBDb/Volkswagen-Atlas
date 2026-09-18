@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MISFIRES_C3: 3501
   response: 7E8056211500DAD
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3: 8865
+  response: 7E80562115022A1
