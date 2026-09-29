@@ -2,19 +2,25 @@ command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
     VOLKSWAGEN_ATF_T: 30
+    VOLKSWAGEN_ATF_T_DUAL_CLU: 70
   response: '7E90462210446'
 - expected_values:
     VOLKSWAGEN_ATF_T: 38
+    VOLKSWAGEN_ATF_T_DUAL_CLU: 78
   response: 7E9046221044E
 - expected_values:
     VOLKSWAGEN_ATF_T: 47
+    VOLKSWAGEN_ATF_T_DUAL_CLU: 87
   response: '7E90462210457'
 - expected_values:
     VOLKSWAGEN_ATF_T: 59
+    VOLKSWAGEN_ATF_T_DUAL_CLU: 99
   response: '7E90462210463'
 - expected_values:
     VOLKSWAGEN_ATF_T: 60
+    VOLKSWAGEN_ATF_T_DUAL_CLU: 100
   response: '7E90462210464'
 - expected_values:
     VOLKSWAGEN_ATF_T: 85
+    VOLKSWAGEN_ATF_T_DUAL_CLU: 125
   response: 7E9046221047D
