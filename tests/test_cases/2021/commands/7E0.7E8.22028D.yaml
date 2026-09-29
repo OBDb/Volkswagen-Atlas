@@ -2,10 +2,13 @@ command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
     VOLKSWAGEN_ECU_TEMP: 18
+    VOLKSWAGEN_ENG_CTRL_MODULE_T: 18
   response: 7E80562028D00B4
 - expected_values:
     VOLKSWAGEN_ECU_TEMP: 51
+    VOLKSWAGEN_ENG_CTRL_MODULE_T: 51
   response: 7E80562028D01FE
 - expected_values:
     VOLKSWAGEN_ECU_TEMP: 77
+    VOLKSWAGEN_ENG_CTRL_MODULE_T: 77
   response: 7E80562028D0302
