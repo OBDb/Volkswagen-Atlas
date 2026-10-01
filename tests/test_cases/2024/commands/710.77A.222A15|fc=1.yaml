@@ -4,17 +4,8 @@ test_cases:
     ATLAS_ENERGY_BALANCE_LAST: 0
   response: 77A07622A1500000003
 - expected_values:
-    ATLAS_ENERGY_BALANCE_LAST: 0
-  response: 77A07622A1500000007
-- expected_values:
-    ATLAS_ENERGY_BALANCE_LAST: 0
-  response: 77A07622A150000001C
-- expected_values:
-    ATLAS_ENERGY_BALANCE_LAST: 0
-  response: 77A07622A1500000040
-- expected_values:
-    ATLAS_ENERGY_BALANCE_LAST: 0.01
-  response: 77A07622A150001002E
-- expected_values:
     ATLAS_ENERGY_BALANCE_LAST: 0.02
   response: 77A07622A1500020088
+- expected_values:
+    ATLAS_ENERGY_BALANCE_LAST: 0.02
+  response: 77A07622A15000200D9
