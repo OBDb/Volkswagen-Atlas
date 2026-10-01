@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2215B8|din=03
+test_cases:
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST: 3451
+  response: 7E8056215B80D7B
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST: 3494
+  response: 7E8056215B80DA6
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST: 3864
+  response: 7E8056215B80F18

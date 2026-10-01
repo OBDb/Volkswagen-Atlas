@@ -1,12 +1,8 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_AAT_746: 0
-    VOLKSWAGEN_AAT_FROMCABIN: 50
-    VOLKSWAGEN_AAT_V2: 50
+    ATLAS_AAT: 50
   response: 7B00462260964
 - expected_values:
-    VOLKSWAGEN_AAT_746: 31
-    VOLKSWAGEN_AAT_FROMCABIN: -47
-    VOLKSWAGEN_AAT_V2: -47
+    ATLAS_AAT: -47
   response: 7B004622609A2
