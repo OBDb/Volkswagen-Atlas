@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "70E", "rax": "778", "fcm1": true, "cmd": {"22": "1945"}, "freq": 2, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
   "signals": [
     {"id": "ATLAS_HEATER_FOR_NOZZLES_ACTIVE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Heater for nozzles active"}
@@ -48,7 +52,7 @@
     {"id": "ATLAS_BZE_Q_LAD",  "path": "Engine", "fmt": {           "len": 32, "max": 429496729, "div": 10, "unit": "ampereHours" }, "name": "Bze_q_lad"},
     {"id": "ATLAS_BZE_Q_ELAD", "path": "Engine", "fmt": {"bix": 32, "len": 32, "max": 429496729, "div": 10, "unit": "ampereHours" }, "name": "Bze_q_elad"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "dbg": true, "cmd": {"22": "1512"}, "freq": 1,
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "1512"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "ATLAS_HVBAT_ENERGY",    "path": "Battery", "fmt": {           "len": 16, "max": 1638,  "div": 40, "unit": "kilowattHours" }, "name": "High voltage battery energy information"},
     {"id": "ATLAS_NV_ENERGY",       "path": "Engine",  "fmt": {"bix": 16, "len": 8,  "max": 12.75, "div": 20, "unit": "kilowattHours" }, "name": "NV energy requirement"},
@@ -97,7 +101,7 @@
   "signals": [
     {"id": "ATLAS_BAT_V_AT_REST", "path": "Battery", "fmt": { "len": 8, "max": 34.5, "min": 9, "div": 10, "add": 9, "unit": "volts" }, "name": "Battery voltage at rest"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "dbg": true, "cmd": {"22": "2A15"}, "freq": 1,
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A15"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
   "signals": [
     {"id": "ATLAS_ENERGY_BALANCE_LAST", "path": "Engine", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "ampereHours" }, "name": "Energy balance of last driving cycle"}
   ]},

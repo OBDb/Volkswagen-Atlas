@@ -1,0 +1,20 @@
+command_id: 710.77A.222A15|fc=1
+test_cases:
+- expected_values:
+    ATLAS_ENERGY_BALANCE_LAST: 0
+  response: 77A07622A1500000003
+- expected_values:
+    ATLAS_ENERGY_BALANCE_LAST: 0
+  response: 77A07622A1500000007
+- expected_values:
+    ATLAS_ENERGY_BALANCE_LAST: 0
+  response: 77A07622A150000001C
+- expected_values:
+    ATLAS_ENERGY_BALANCE_LAST: 0
+  response: 77A07622A1500000040
+- expected_values:
+    ATLAS_ENERGY_BALANCE_LAST: 0.01
+  response: 77A07622A150001002E
+- expected_values:
+    ATLAS_ENERGY_BALANCE_LAST: 0.02
+  response: 77A07622A1500020088
