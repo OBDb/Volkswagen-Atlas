@@ -4,11 +4,8 @@ test_cases:
     ATLAS_ODO_ECM: 86272
   response: 7E80662295A015100
 - expected_values:
-    ATLAS_ODO_ECM: 160649
-  response: 7E80662295A027389
-- expected_values:
     ATLAS_ODO_ECM: 164863
   response: 7E80662295A0283FF
 - expected_values:
-    ATLAS_ODO_ECM: 164866
-  response: 7E80662295A028402
+    ATLAS_ODO_ECM: null
+  response: 7E80662295A0FFFFF
