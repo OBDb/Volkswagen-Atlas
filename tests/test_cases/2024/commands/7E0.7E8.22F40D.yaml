@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.22F40D
 test_cases:
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 0
+    ATLAS_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 2
+    ATLAS_VSS: 2
   response: 7E80462F40D02
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 17
+    ATLAS_VSS: 17
   response: 7E80462F40D11
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 27
+    ATLAS_VSS: 27
   response: 7E80462F40D1B
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 53
+    ATLAS_VSS: 53
   response: 7E80462F40D35
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 69
+    ATLAS_VSS: 69
   response: 7E80462F40D45
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 70
+    ATLAS_VSS: 70
   response: 7E80462F40D46
 - expected_values:
-    VOLKSWAGEN_VSS_V2: 73
+    ATLAS_VSS: 73
   response: 7E80462F40D49

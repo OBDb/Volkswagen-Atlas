@@ -1,23 +1,23 @@
 command_id: 710.77A.222A0B|fc=1
 test_cases:
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 26
+    ATLAS_BAT_T: 26
   response: 77A04622A0B42
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 28
+    ATLAS_BAT_T: 28
   response: 77A04622A0B44
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 29
+    ATLAS_BAT_T: 29
   response: 77A04622A0B45
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 32
+    ATLAS_BAT_T: 32
   response: 77A04622A0B48
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 33
+    ATLAS_BAT_T: 33
   response: 77A04622A0B49
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 38
+    ATLAS_BAT_T: 38
   response: 77A04622A0B4E
 - expected_values:
-    VOLKSWAGEN_BAT_T_V2: 39
+    ATLAS_BAT_T: 39
   response: 77A04622A0B4F

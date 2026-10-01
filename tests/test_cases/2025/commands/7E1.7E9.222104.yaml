@@ -1,10 +1,8 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ATF_T: 13
-    VOLKSWAGEN_ATF_T_DUAL_CLU: 53
+    ATLAS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 13
   response: '7E90462210435'
 - expected_values:
-    VOLKSWAGEN_ATF_T: 98
-    VOLKSWAGEN_ATF_T_DUAL_CLU: -118
+    ATLAS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 98
   response: 7E9046221048A

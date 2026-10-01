@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221153
+test_cases:
+- expected_values:
+    ATLAS_MIS_2_7E0: 174.4
+  response: '7E8056211534420'
+- expected_values:
+    ATLAS_MIS_2_7E0: 174.42
+  response: '7E8056211534422'
+- expected_values:
+    ATLAS_MIS_2_7E0: 174.54
+  response: 7E805621153442E
+- expected_values:
+    ATLAS_MIS_2_7E0: 174.57
+  response: '7E8056211534431'
+- expected_values:
+    ATLAS_MIS_2_7E0: 174.84
+  response: 7E805621153444C
+- expected_values:
+    ATLAS_MIS_2_7E0: 175.45
+  response: '7E8056211534489'
+- expected_values:
+    ATLAS_MIS_2_7E0: 175.48
+  response: 7E805621153448C
+- expected_values:
+    ATLAS_MIS_2_7E0: 175.54
+  response: '7E8056211534492'

@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22113F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS: 0.83
-    VOLKSWAGEN_FUEL_RATE: 0.83
+    ATLAS_FUEL_CONS: 0.83
   response: 7E80562113F0053
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS: 2.02
-    VOLKSWAGEN_FUEL_RATE: 2.02
+    ATLAS_FUEL_CONS: 2.02
   response: 7E80562113F00CA
 - expected_values:
-    VOLKSWAGEN_FUEL_CONS: 2.75
-    VOLKSWAGEN_FUEL_RATE: 2.75
+    ATLAS_FUEL_CONS: 2.75
   response: 7E80562113F0113
