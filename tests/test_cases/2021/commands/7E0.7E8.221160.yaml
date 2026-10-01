@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.221160
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 84065.391
+    ATLAS_ODO_HD: 84065.391
   response: 7E8076211600502BC6F
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 84077.574
+    ATLAS_ODO_HD: 84077.574
   response: 7E8076211600502EC06
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 84078.536
+    ATLAS_ODO_HD: 84078.536
   response: 7E8076211600502EFC8
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 84087.012
+    ATLAS_ODO_HD: 84087.012
   response: 7E807621160050310E4
 - expected_values:
-    VOLKSWAGEN_ODO_HD: 84698.752
+    ATLAS_ODO_HD: 84698.752
   response: 7E807621160050C6680

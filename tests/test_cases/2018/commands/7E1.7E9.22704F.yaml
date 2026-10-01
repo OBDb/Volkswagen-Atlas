@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22704F
 test_cases:
 - expected_values:
-    VOLKSWAGEN_ATF_MAX: 105
+    ATLAS_ATF_MAX: 105
   response: 7E90462704F9B
 - expected_values:
-    VOLKSWAGEN_ATF_MAX: 111
+    ATLAS_ATF_MAX: 111
   response: 7E90462704FA1

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221150
 test_cases:
 - expected_values:
-    VOLKSWAGEN_MISFIRES_C3: 6267
+    ATLAS_MISFIRES_C3_ECM: 6267
   response: 7E805621150187B
 - expected_values:
-    VOLKSWAGEN_MISFIRES_C3: 6373
+    ATLAS_MISFIRES_C3_ECM: 6373
   response: 7E80562115018E5

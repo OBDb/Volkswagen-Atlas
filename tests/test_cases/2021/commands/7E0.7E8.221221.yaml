@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221221
 test_cases:
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 2.2
+    ATLAS_PQ35_ACCEL_PED_1: 2.2
   response: 7E805621221000B
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: 7.6
+    ATLAS_PQ35_ACCEL_PED_1: 7.6
   response: '7E8056212210026'
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: -8.4
+    ATLAS_PQ35_ACCEL_PED_1: -8.4
   response: 7E805621221FFD6
 - expected_values:
-    VOLKSWAGEN_PQ35_ACCEL_PED_1: -5.2
+    ATLAS_PQ35_ACCEL_PED_1: -5.2
   response: 7E805621221FFE6

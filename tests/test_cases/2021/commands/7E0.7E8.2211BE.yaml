@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    ATLAS_PQ35_OIL_T_2: 4
+  response: 7E8056211BE0004
+- expected_values:
+    ATLAS_PQ35_OIL_T_2: -16
+  response: 7E8056211BEFFF0
+- expected_values:
+    ATLAS_PQ35_OIL_T_2: -4
+  response: 7E8056211BEFFFC
