@@ -1,0 +1,8 @@
+command_id: 710.77A.222A0C|fc=1,f=-2023
+test_cases:
+- expected_values:
+    ATLAS_BAT_SOC: 39
+  response: 77A04622A0C27
+- expected_values:
+    ATLAS_BAT_SOC: 100
+  response: 77A04622A0C64

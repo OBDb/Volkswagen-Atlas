@@ -1,0 +1,37 @@
+command_id: 710.77A.222AB8|fc=1,f=2024-
+test_cases:
+- expected_values:
+    ATLAS_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8010700
+    77A2100000000005555
+- expected_values:
+    ATLAS_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8010C00
+    77A2100000000005555
+- expected_values:
+    ATLAS_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8028500
+    77A2100000000005555
+- expected_values:
+    ATLAS_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8028B00
+    77A2100000000005555
+- expected_values:
+    ATLAS_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8028E00
+    77A2100000000005555
+- expected_values:
+    ATLAS_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8029100
+    77A2100000000005555
+- expected_values:
+    ATLAS_HVBAT_E_CONTENT: 0
+  response: |-
+    77A100B622AB8029300
+    77A2100000000005555
