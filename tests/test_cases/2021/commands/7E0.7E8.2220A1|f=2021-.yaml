@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2220A1|f=2021-
+test_cases:
+- expected_values:
+    ATLAS_PQ35_CALCULATED_OIL_T: -40
+  response: 7E8056220A10078
+- expected_values:
+    ATLAS_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A10302
+- expected_values:
+    ATLAS_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A103FC
+- expected_values:
+    ATLAS_PQ35_CALCULATED_OIL_T: -36
+  response: 7E8056220A10406
