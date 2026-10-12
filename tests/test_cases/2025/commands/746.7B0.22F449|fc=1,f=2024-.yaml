@@ -1,4 +1,4 @@
-command_id: 746.7B0.22F449|fc=1
+command_id: 746.7B0.22F449|fc=1,f=2024-
 test_cases:
 - expected_values:
     ATLAS_APP_D: 0
