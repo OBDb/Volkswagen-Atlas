@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.223887
 test_cases:
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 426246144
+    ATLAS_MQB_TCM_ODO_2: 435
   response: 7E907623887000010FE
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 427923865.6
+    ATLAS_MQB_TCM_ODO_2: 435.1
   response: 7E907623887000010FF
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 111411.2
+    ATLAS_MQB_TCM_ODO_2: 435.2
   response: '7E90762388700001100'
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 8513126.4
+    ATLAS_MQB_TCM_ODO_2: 486.9
   response: '7E90762388700001305'
