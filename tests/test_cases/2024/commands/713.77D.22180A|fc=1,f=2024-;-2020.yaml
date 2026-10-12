@@ -1,4 +1,4 @@
-command_id: 713.77D.22180A|fc=1
+command_id: 713.77D.22180A|fc=1,f=2024-;-2020
 test_cases:
 - expected_values:
     ATLAS_MQB_HAL_CLUTCH_BLOCK: 0

@@ -1,4 +1,4 @@
-command_id: 746.7B0.2242DB|fc=1
+command_id: 746.7B0.2242DB|fc=1,f=2024-
 test_cases:
 - expected_values:
     ATLAS_CABIN_CO2: 25400
