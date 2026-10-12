@@ -1,20 +1,20 @@
 command_id: 7E1.7E9.223887
 test_cases:
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 82627788.8
+    ATLAS_MQB_TCM_ODO_2: 1643.3
   response: '7E90762388700004031'
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 85983232
+    ATLAS_MQB_TCM_ODO_2: 1643.5
   response: '7E90762388700004033'
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 89338675.2
+    ATLAS_MQB_TCM_ODO_2: 1643.7
   response: '7E90762388700004035'
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 200068300.8
+    ATLAS_MQB_TCM_ODO_2: 1650.3
   response: '7E90762388700004077'
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 206779187.2
+    ATLAS_MQB_TCM_ODO_2: 1650.7
   response: 7E9076238870000407B
 - expected_values:
-    ATLAS_MQB_TCM_ODO_2: 211812352
+    ATLAS_MQB_TCM_ODO_2: 1651
   response: 7E9076238870000407E
