@@ -7,8 +7,8 @@ test_cases:
     ATLAS_AAT_V2: 3.35938
   response: 7E80562100401AE
 - expected_values:
-    ATLAS_AAT_V2: 15.99219
-  response: 7E80562100407FF
+    ATLAS_AAT_V2: 9.99219
+  response: 7E80562100404FF
 - expected_values:
-    ATLAS_AAT_V2: -0.60938
-  response: 7E805621004FFB2
+    ATLAS_AAT_V2: -1.13281
+  response: 7E805621004FF6F

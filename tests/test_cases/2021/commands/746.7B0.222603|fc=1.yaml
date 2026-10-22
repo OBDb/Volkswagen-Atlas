@@ -4,5 +4,5 @@ test_cases:
     ATLAS_CLIMATE_A_C_COMP_SPD: 0
   response: 7B00462260300
 - expected_values:
-    ATLAS_CLIMATE_A_C_COMP_SPD: 7000
-  response: 7B00462260346
+    ATLAS_CLIMATE_A_C_COMP_SPD: 7200
+  response: 7B00462260348

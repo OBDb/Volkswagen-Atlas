@@ -1,0 +1,20 @@
+command_id: 714.77E.2222B8|fc=1
+test_cases:
+- expected_values:
+    ATLAS_ODO_MILEAGE_HR: 80658.941
+  response: 77E076222B804CEC1FD
+- expected_values:
+    ATLAS_ODO_MILEAGE_HR: 81132.287
+  response: 77E076222B804D5FAFF
+- expected_values:
+    ATLAS_ODO_MILEAGE_HR: 81133.63
+  response: 77E076222B804D6003E
+- expected_values:
+    ATLAS_ODO_MILEAGE_HR: 81182.208
+  response: 77E076222B804D6BE00
+- expected_values:
+    ATLAS_ODO_MILEAGE_HR: 81461.07
+  response: 77E076222B804DAFF4E
+- expected_values:
+    ATLAS_ODO_MILEAGE_HR: 81463.256
+  response: 77E076222B804DB07D8

@@ -1,0 +1,17 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    ATLAS_AAT: 39
+  response: 7B0046226094E
+- expected_values:
+    ATLAS_AAT: 40.5
+  response: 7B00462260951
+- expected_values:
+    ATLAS_AAT: 41
+  response: 7B00462260952
+- expected_values:
+    ATLAS_AAT: 42
+  response: 7B00462260954
+- expected_values:
+    ATLAS_AAT: 43
+  response: 7B00462260956

@@ -4,11 +4,11 @@ test_cases:
     ATLAS_MQB_TCM_ODO: 0
   response: '7E90762384100000000'
 - expected_values:
-    ATLAS_MQB_TCM_ODO: 160691
-  response: 7E907623841001884FE
+    ATLAS_MQB_TCM_ODO: 123059
+  response: 7E9076238410012C6FE
 - expected_values:
-    ATLAS_MQB_TCM_ODO: 163818
-  response: 7E9076238410018FF24
+    ATLAS_MQB_TCM_ODO: 137606
+  response: 7E9076238410014FF3C
 - expected_values:
     ATLAS_MQB_TCM_ODO: 163840
   response: '7E90762384100190000'

@@ -7,8 +7,8 @@ test_cases:
     ATLAS_PQ35_FR_VSS: 0
   response: 77905622B1C0000
 - expected_values:
-    ATLAS_PQ35_FR_VSS: 20.8
-  response: 77905622B1C00D0
+    ATLAS_PQ35_FR_VSS: 21.7
+  response: 77905622B1C00D9
 - expected_values:
     ATLAS_PQ35_FR_VSS: 104
   response: 77905622B1C0410

@@ -7,11 +7,11 @@ test_cases:
     ATLAS_BAT_I: 0.511
   response: 77A07622A09000001FF
 - expected_values:
-    ATLAS_BAT_I: -265.15
-  response: 77A07622A09FFFBF442
+    ATLAS_BAT_I: -273.27
+  response: 77A07622A09FFFBD48A
 - expected_values:
-    ATLAS_BAT_I: -47.87
-  response: 77A07622A09FFFF4502
+    ATLAS_BAT_I: -49.47
+  response: 77A07622A09FFFF3EC2
 - expected_values:
-    ATLAS_BAT_I: -0.231
-  response: 77A07622A09FFFFFF19
+    ATLAS_BAT_I: -0.249
+  response: 77A07622A09FFFFFF07

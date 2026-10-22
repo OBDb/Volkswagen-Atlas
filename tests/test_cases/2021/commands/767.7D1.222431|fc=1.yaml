@@ -1,17 +1,17 @@
 command_id: 767.7D1.222431|fc=1
 test_cases:
 - expected_values:
+    ATLAS_GPS_SATS_TRACKED: 0
+    ATLAS_GPS_SATS_VISIBLE: 1
+  response: 7D106622431010000
+- expected_values:
     ATLAS_GPS_SATS_TRACKED: 16
     ATLAS_GPS_SATS_VISIBLE: 1
   response: 7D106622431011000
 - expected_values:
-    ATLAS_GPS_SATS_TRACKED: 15
-    ATLAS_GPS_SATS_VISIBLE: 2
-  response: 7D106622431020F01
-- expected_values:
     ATLAS_GPS_SATS_TRACKED: 16
     ATLAS_GPS_SATS_VISIBLE: 4
-  response: 7D106622431041008
+  response: 7D106622431041007
 - expected_values:
     ATLAS_GPS_SATS_TRACKED: 16
     ATLAS_GPS_SATS_VISIBLE: 4

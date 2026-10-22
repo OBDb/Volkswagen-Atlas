@@ -1,11 +1,8 @@
 command_id: 7E0.221151
 test_cases:
 - expected_values:
-    ATLAS_MISFIRES__CYL__4: 11488
-  response: 7E8056211512CE0
-- expected_values:
-    ATLAS_MISFIRES__CYL__4: 11489
-  response: 7E8056211512CE1
+    ATLAS_MISFIRES__CYL__4: 240
+  response: 7E80562115100F0
 - expected_values:
     ATLAS_MISFIRES__CYL__4: 11536
   response: 7E8056211512D10

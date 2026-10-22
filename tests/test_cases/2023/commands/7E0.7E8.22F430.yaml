@@ -4,14 +4,5 @@ test_cases:
     ATLAS_WARM_UPS: 2
   response: 7E80462F43002
 - expected_values:
-    ATLAS_WARM_UPS: 4
-  response: 7E80462F43004
-- expected_values:
-    ATLAS_WARM_UPS: 15
-  response: 7E80462F4300F
-- expected_values:
-    ATLAS_WARM_UPS: 16
-  response: 7E80462F43010
-- expected_values:
     ATLAS_WARM_UPS: 255
   response: 7E80462F430FF

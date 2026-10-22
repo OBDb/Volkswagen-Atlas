@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222029|f=2021-
+test_cases:
+- expected_values:
+    ATLAS_PQ35_CHARGE_AIR_P_SPECIFIED: 79.44
+  response: 7E80562202903E1
+- expected_values:
+    ATLAS_PQ35_CHARGE_AIR_P_SPECIFIED: 79.52
+  response: 7E80562202903E2

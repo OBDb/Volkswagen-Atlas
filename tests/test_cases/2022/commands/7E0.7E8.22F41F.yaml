@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    ATLAS_RUNTM: 225
+  response: 7E80562F41F00E1
+- expected_values:
+    ATLAS_RUNTM: 358
+  response: 7E80562F41F0166
+- expected_values:
+    ATLAS_RUNTM: 437
+  response: 7E80562F41F01B5
+- expected_values:
+    ATLAS_RUNTM: 506
+  response: 7E80562F41F01FA
+- expected_values:
+    ATLAS_RUNTM: 642
+  response: 7E80562F41F0282
+- expected_values:
+    ATLAS_RUNTM: 766
+  response: 7E80562F41F02FE

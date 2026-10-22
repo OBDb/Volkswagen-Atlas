@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ATLAS_ATF_MAX: 110
   response: 7E90462704FA0
+- expected_values:
+    ATLAS_ATF_MAX: 111
+  response: 7E90462704FA1

@@ -4,14 +4,5 @@ test_cases:
     ATLAS_AC_COMP_T: 0
   response: '7E8056210020000'
 - expected_values:
-    ATLAS_AC_COMP_T: 4.6
-  response: 7E805621002002E
-- expected_values:
-    ATLAS_AC_COMP_T: 7.2
-  response: '7E8056210020048'
-- expected_values:
-    ATLAS_AC_COMP_T: 8.6
-  response: '7E8056210020056'
-- expected_values:
     ATLAS_AC_COMP_T: 8.7
   response: '7E8056210020057'

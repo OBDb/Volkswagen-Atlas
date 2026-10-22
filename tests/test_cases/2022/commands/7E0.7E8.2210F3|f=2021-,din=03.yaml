@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2210F3|f=2021-,din=03
+test_cases:
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST_VALID: 3962
+  response: 7E8056210F30F7A
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST_VALID: 4046
+  response: 7E8056210F30FCE
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST_VALID: 4075
+  response: 7E8056210F30FEB
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST_VALID: 4143
+  response: 7E8056210F3102F
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST_VALID: 4262
+  response: 7E8056210F310A6
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST_VALID: 4339
+  response: 7E8056210F310F3
+- expected_values:
+    ATLAS_OIL_LEVEL_LAST_VALID: 4646
+  response: 7E8056210F31226

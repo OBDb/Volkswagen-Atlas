@@ -8,3 +8,11 @@ test_cases:
     ATLAS_ECALL_SOC: 94
     ATLAS_ECALL_STATUS: NORMAL
   response: 7D105620838025E
+- expected_values:
+    ATLAS_ECALL_SOC: 97
+    ATLAS_ECALL_STATUS: NORMAL
+  response: 7D1056208380261
+- expected_values:
+    ATLAS_ECALL_SOC: 98
+    ATLAS_ECALL_STATUS: NORMAL
+  response: 7D1056208380262

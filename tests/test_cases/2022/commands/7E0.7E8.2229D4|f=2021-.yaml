@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2229D4|f=2021-
+test_cases:
+- expected_values:
+    ATLAS_ENG_TRQ_REQ_1: 42.7
+  response: 7E8056229D401AB
+- expected_values:
+    ATLAS_ENG_TRQ_REQ_1: 43.3
+  response: 7E8056229D401B1
+- expected_values:
+    ATLAS_ENG_TRQ_REQ_1: 43.4
+  response: 7E8056229D401B2
+- expected_values:
+    ATLAS_ENG_TRQ_REQ_1: 43.9
+  response: 7E8056229D401B7
+- expected_values:
+    ATLAS_ENG_TRQ_REQ_1: 44.9
+  response: 7E8056229D401C1
+- expected_values:
+    ATLAS_ENG_TRQ_REQ_1: 47.3
+  response: 7E8056229D401D9

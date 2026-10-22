@@ -4,8 +4,20 @@ test_cases:
     ATLAS_MQB_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
 - expected_values:
+    ATLAS_MQB_MAF_1_B1_RAW: 103.6
+  response: 7E805621026040C
+- expected_values:
+    ATLAS_MQB_MAF_1_B1_RAW: 118.7
+  response: 7E80562102604A3
+- expected_values:
     ATLAS_MQB_MAF_1_B1_RAW: 121.7
   response: 7E80562102604C1
 - expected_values:
     ATLAS_MQB_MAF_1_B1_RAW: 140.5
   response: 7E805621026057D
+- expected_values:
+    ATLAS_MQB_MAF_1_B1_RAW: 142.5
+  response: '7E8056210260591'
+- expected_values:
+    ATLAS_MQB_MAF_1_B1_RAW: 226.9
+  response: 7E80562102608DD

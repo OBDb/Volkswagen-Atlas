@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221153
 test_cases:
 - expected_values:
+    ATLAS_MIS_2_7E0: 6.38
+  response: 7E805621153027E
+- expected_values:
     ATLAS_MIS_2_7E0: 209.91
   response: 7E80562115351FF
 - expected_values:

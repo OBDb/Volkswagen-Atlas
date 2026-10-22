@@ -1,23 +1,11 @@
 command_id: 7E0.7E8.221150
 test_cases:
 - expected_values:
+    ATLAS_MISFIRES_C3_ECM: 1981
+  response: 7E80562115007BD
+- expected_values:
+    ATLAS_MISFIRES_C3_ECM: 1985
+  response: 7E80562115007C1
+- expected_values:
     ATLAS_MISFIRES_C3_ECM: 16426
   response: 7E805621150402A
-- expected_values:
-    ATLAS_MISFIRES_C3_ECM: 16427
-  response: 7E805621150402B
-- expected_values:
-    ATLAS_MISFIRES_C3_ECM: 16428
-  response: 7E805621150402C
-- expected_values:
-    ATLAS_MISFIRES_C3_ECM: 16437
-  response: '7E8056211504035'
-- expected_values:
-    ATLAS_MISFIRES_C3_ECM: 16441
-  response: '7E8056211504039'
-- expected_values:
-    ATLAS_MISFIRES_C3_ECM: 16528
-  response: '7E8056211504090'
-- expected_values:
-    ATLAS_MISFIRES_C3_ECM: 16531
-  response: '7E8056211504093'

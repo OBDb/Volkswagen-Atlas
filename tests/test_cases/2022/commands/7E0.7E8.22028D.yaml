@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22028D
+test_cases:
+- expected_values:
+    ATLAS_ENG_CTRL_MODULE_T: 51
+  response: 7E80562028D01FE
+- expected_values:
+    ATLAS_ENG_CTRL_MODULE_T: 54
+  response: 7E80562028D021C
+- expected_values:
+    ATLAS_ENG_CTRL_MODULE_T: 56
+  response: 7E80562028D0230
+- expected_values:
+    ATLAS_ENG_CTRL_MODULE_T: 57
+  response: 7E80562028D023A
+- expected_values:
+    ATLAS_ENG_CTRL_MODULE_T: 59
+  response: 7E80562028D024E
+- expected_values:
+    ATLAS_ENG_CTRL_MODULE_T: 61
+  response: 7E80562028D0262

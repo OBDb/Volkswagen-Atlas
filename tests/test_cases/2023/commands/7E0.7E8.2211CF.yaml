@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211CF
+test_cases:
+- expected_values:
+    ATLAS_BRAKE_BOOSTER_P: 49.76499
+  response: 7E8056211CF04FA
+- expected_values:
+    ATLAS_BRAKE_BOOSTER_P: 50.03842
+  response: 7E8056211CF0501
+- expected_values:
+    ATLAS_BRAKE_BOOSTER_P: 79.95991
+  response: 7E8056211CF07FF
+- expected_values:
+    ATLAS_BRAKE_BOOSTER_P: 261.20759
+  response: 7E8056211CF1A1F

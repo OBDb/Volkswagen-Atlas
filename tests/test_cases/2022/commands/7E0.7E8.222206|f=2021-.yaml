@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222206|f=2021-
+test_cases:
+- expected_values:
+    ATLAS_PQ35_FUEL_LEVEL_7E0_2206: 21
+  response: '7E80462220615'

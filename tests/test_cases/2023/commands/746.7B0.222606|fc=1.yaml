@@ -4,11 +4,17 @@ test_cases:
     ATLAS_CLIMATE_RAD_FAN_ACT_DUTY: 10
   response: 7B00462260619
 - expected_values:
+    ATLAS_CLIMATE_RAD_FAN_ACT_DUTY: 16.8
+  response: 7B0046226062A
+- expected_values:
     ATLAS_CLIMATE_RAD_FAN_ACT_DUTY: 28
   response: 7B00462260646
 - expected_values:
     ATLAS_CLIMATE_RAD_FAN_ACT_DUTY: 30
   response: 7B0046226064B
+- expected_values:
+    ATLAS_CLIMATE_RAD_FAN_ACT_DUTY: 32.8
+  response: 7B00462260652
 - expected_values:
     ATLAS_CLIMATE_RAD_FAN_ACT_DUTY: 46
   response: 7B00462260673

@@ -7,23 +7,5 @@ test_cases:
     ATLAS_CLIMATE_A_C_COMP_SPD: 0
   response: 7B00462260300
 - expected_values:
-    ATLAS_CLIMATE_A_C_COMP_SPD: 700
-  response: 7B00462260307
-- expected_values:
-    ATLAS_CLIMATE_A_C_COMP_SPD: 800
-  response: 7B00462260308
-- expected_values:
-    ATLAS_CLIMATE_A_C_COMP_SPD: 900
-  response: 7B00462260309
-- expected_values:
-    ATLAS_CLIMATE_A_C_COMP_SPD: 1000
-  response: 7B0046226030A
-- expected_values:
-    ATLAS_CLIMATE_A_C_COMP_SPD: 1200
-  response: 7B0046226030C
-- expected_values:
-    ATLAS_CLIMATE_A_C_COMP_SPD: 1400
-  response: 7B0046226030E
-- expected_values:
-    ATLAS_CLIMATE_A_C_COMP_SPD: 2100
-  response: 7B00462260315
+    ATLAS_CLIMATE_A_C_COMP_SPD: 2400
+  response: 7B00462260318

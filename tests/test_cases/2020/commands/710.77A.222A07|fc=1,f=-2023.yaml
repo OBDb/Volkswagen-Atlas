@@ -1,0 +1,5 @@
+command_id: 710.77A.222A07|fc=1,f=-2023
+test_cases:
+- expected_values:
+    ATLAS_BAT_V_2A07: 13.429
+  response: 77A05622A0724D5

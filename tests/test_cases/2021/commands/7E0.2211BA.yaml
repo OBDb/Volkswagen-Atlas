@@ -13,5 +13,5 @@ test_cases:
     ATLAS_OIL_LEVEL: 5.0184
   response: 7E8056211BA3102
 - expected_values:
-    ATLAS_OIL_LEVEL: 5.3984
-  response: 7E8056211BA34B8
+    ATLAS_OIL_LEVEL: 5.4012
+  response: 7E8056211BA34BF

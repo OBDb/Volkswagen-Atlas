@@ -4,17 +4,11 @@ test_cases:
     ATLAS_OIL_CRIT: 2.8
   response: 7E8056211BB1B58
 - expected_values:
-    ATLAS_OIL_CRIT: 2.8972
-  response: 7E8056211BB1C4B
+    ATLAS_OIL_CRIT: 2.956
+  response: 7E8056211BB1CDE
 - expected_values:
-    ATLAS_OIL_CRIT: 3.2616
-  response: 7E8056211BB1FDA
+    ATLAS_OIL_CRIT: 3.1112
+  response: 7E8056211BB1E62
 - expected_values:
     ATLAS_OIL_CRIT: 3.2828
   response: 7E8056211BB200F
-- expected_values:
-    ATLAS_OIL_CRIT: 3.3408
-  response: 7E8056211BB20A0
-- expected_values:
-    ATLAS_OIL_CRIT: 3.3624
-  response: 7E8056211BB20D6

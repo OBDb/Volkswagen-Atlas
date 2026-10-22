@@ -4,14 +4,8 @@ test_cases:
     ATLAS_PQ35_ACCEL_PED_1: 0
   response: '7E8056212210000'
 - expected_values:
-    ATLAS_PQ35_ACCEL_PED_1: -9.2
-  response: 7E805621221FFD2
+    ATLAS_PQ35_ACCEL_PED_1: -8.8
+  response: 7E805621221FFD4
 - expected_values:
-    ATLAS_PQ35_ACCEL_PED_1: -8.2
-  response: 7E805621221FFD7
-- expected_values:
-    ATLAS_PQ35_ACCEL_PED_1: -4.6
-  response: 7E805621221FFE9
-- expected_values:
-    ATLAS_PQ35_ACCEL_PED_1: -3.6
-  response: 7E805621221FFEE
+    ATLAS_PQ35_ACCEL_PED_1: -3
+  response: 7E805621221FFF1

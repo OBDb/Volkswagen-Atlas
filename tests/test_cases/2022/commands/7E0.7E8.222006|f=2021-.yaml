@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.222006|f=2021-
+test_cases:
+- expected_values:
+    ATLAS_PQ35_OIL_FILL_LEVEL: 4.68
+  response: 7E805622006004E
+- expected_values:
+    ATLAS_PQ35_OIL_FILL_LEVEL: 4.92
+  response: '7E8056220060052'
+- expected_values:
+    ATLAS_PQ35_OIL_FILL_LEVEL: 4.98
+  response: '7E8056220060053'
+- expected_values:
+    ATLAS_PQ35_OIL_FILL_LEVEL: 5.04
+  response: '7E8056220060054'
+- expected_values:
+    ATLAS_PQ35_OIL_FILL_LEVEL: 5.1
+  response: '7E8056220060055'
+- expected_values:
+    ATLAS_PQ35_OIL_FILL_LEVEL: 5.16
+  response: '7E8056220060056'
+- expected_values:
+    ATLAS_PQ35_OIL_FILL_LEVEL: 5.22
+  response: '7E8056220060057'

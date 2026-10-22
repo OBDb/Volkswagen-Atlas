@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.227064
+test_cases:
+- expected_values:
+    ATLAS_MQB_TCM_ENG_TORQUE: 4
+  response: '7E9056270640004'
+- expected_values:
+    ATLAS_MQB_TCM_ENG_TORQUE: 6
+  response: '7E9056270640006'
+- expected_values:
+    ATLAS_MQB_TCM_ENG_TORQUE: 10
+  response: 7E905627064000A
+- expected_values:
+    ATLAS_MQB_TCM_ENG_TORQUE: 11
+  response: 7E905627064000B
+- expected_values:
+    ATLAS_MQB_TCM_ENG_TORQUE: 12
+  response: 7E905627064000C
+- expected_values:
+    ATLAS_MQB_TCM_ENG_TORQUE: 14
+  response: 7E905627064000E

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22121B|din=03
+test_cases:
+- expected_values:
+    ATLAS_POST_INJ_2_7E0: 1.172
+  response: 7E80562121B0B72
+- expected_values:
+    ATLAS_POST_INJ_2_7E0: 1.536
+  response: 7E80562121B0F00
+- expected_values:
+    ATLAS_POST_INJ_2_7E0: 1.638
+  response: 7E80562121B0FFF
+- expected_values:
+    ATLAS_POST_INJ_2_7E0: 1.7796
+  response: 7E80562121B1161

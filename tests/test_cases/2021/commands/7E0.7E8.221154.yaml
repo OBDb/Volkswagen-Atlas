@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
+    ATLAS_EM_TORQ_2: 9.46875
+  response: 7E805621154012F
+- expected_values:
     ATLAS_EM_TORQ_2: 359.90625
   response: 7E8056211542CFD
 - expected_values:

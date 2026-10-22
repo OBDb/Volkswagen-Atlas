@@ -1,26 +1,14 @@
 command_id: 7E0.2211BA
 test_cases:
 - expected_values:
-    ATLAS_OIL_LEVEL: 4.1732
-  response: 7E8056211BA28C1
+    ATLAS_OIL_LEVEL: 0
+  response: 7E8056211BA0000
 - expected_values:
-    ATLAS_OIL_LEVEL: 4.6664
-  response: 7E8056211BA2D92
+    ATLAS_OIL_LEVEL: 4.3932
+  response: 7E8056211BA2AE7
 - expected_values:
-    ATLAS_OIL_LEVEL: 4.8852
-  response: 7E8056211BA2FB5
+    ATLAS_OIL_LEVEL: 4.8224
+  response: 7E8056211BA2F18
 - expected_values:
-    ATLAS_OIL_LEVEL: 5.248
-  response: 7E8056211BA3340
-- expected_values:
-    ATLAS_OIL_LEVEL: 5.2864
-  response: 7E8056211BA33A0
-- expected_values:
-    ATLAS_OIL_LEVEL: 5.336
-  response: 7E8056211BA341C
-- expected_values:
-    ATLAS_OIL_LEVEL: 5.392
-  response: 7E8056211BA34A8
-- expected_values:
-    ATLAS_OIL_LEVEL: 6.5984
-  response: 7E8056211BA4070
+    ATLAS_OIL_LEVEL: 6.66
+  response: 7E8056211BA410A

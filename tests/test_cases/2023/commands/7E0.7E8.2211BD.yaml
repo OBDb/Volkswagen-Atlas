@@ -1,20 +1,14 @@
 command_id: 7E0.7E8.2211BD
 test_cases:
 - expected_values:
-    ATLAS_PQ35_OIL_LVL_CRIT: 1.2384
-  response: 7E8056211BD0C18
+    ATLAS_PQ35_OIL_LVL_CRIT: 1.2368
+  response: 7E8056211BD0C14
 - expected_values:
-    ATLAS_PQ35_OIL_LVL_CRIT: 1.2644
-  response: 7E8056211BD0C59
-- expected_values:
-    ATLAS_PQ35_OIL_LVL_CRIT: 1.3556
-  response: 7E8056211BD0D3D
+    ATLAS_PQ35_OIL_LVL_CRIT: 1.4172
+  response: 7E8056211BD0DD7
 - expected_values:
     ATLAS_PQ35_OIL_LVL_CRIT: 1.438
   response: 7E8056211BD0E0B
 - expected_values:
-    ATLAS_PQ35_OIL_LVL_CRIT: 1.4456
-  response: 7E8056211BD0E1E
-- expected_values:
-    ATLAS_PQ35_OIL_LVL_CRIT: 1.4688
-  response: 7E8056211BD0E58
+    ATLAS_PQ35_OIL_LVL_CRIT: 1.4408
+  response: 7E8056211BD0E12

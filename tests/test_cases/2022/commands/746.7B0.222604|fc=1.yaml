@@ -1,0 +1,8 @@
+command_id: 746.7B0.222604|fc=1
+test_cases:
+- expected_values:
+    ATLAS_CLIMATE_A_C_COMP_LOAD: 16.2
+  response: 7B004622604A2
+- expected_values:
+    ATLAS_CLIMATE_A_C_COMP_LOAD: 16.7
+  response: 7B004622604A7

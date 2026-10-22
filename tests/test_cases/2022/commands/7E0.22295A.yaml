@@ -1,0 +1,5 @@
+command_id: 7E0.22295A
+test_cases:
+- expected_values:
+    ATLAS_ODO_ECM: 165101
+  response: 7E80662295A0284ED

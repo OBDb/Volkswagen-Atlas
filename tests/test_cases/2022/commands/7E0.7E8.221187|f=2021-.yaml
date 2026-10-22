@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221187|f=2021-
+test_cases:
+- expected_values:
+    ATLAS_ACCELERATION: -0.011
+  response: 7E805621187FFF5

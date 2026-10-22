@@ -4,11 +4,11 @@ test_cases:
     ATLAS_PQ35_CALCULATED_OIL_T: -40
   response: 7E8056220A10078
 - expected_values:
-    ATLAS_PQ35_CALCULATED_OIL_T: -37
-  response: 7E8056220A10302
+    ATLAS_PQ35_CALCULATED_OIL_T: -39
+  response: 7E8056220A101FE
 - expected_values:
     ATLAS_PQ35_CALCULATED_OIL_T: -37
-  response: 7E8056220A103FC
+  response: 7E8056220A10302
 - expected_values:
     ATLAS_PQ35_CALCULATED_OIL_T: -36
   response: 7E8056220A10406

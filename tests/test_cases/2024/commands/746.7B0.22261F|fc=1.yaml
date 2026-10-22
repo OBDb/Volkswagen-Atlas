@@ -4,5 +4,5 @@ test_cases:
     ATLAS_MQB_RECIRC_FLAP_TRG: 76
   response: 7B00562261F004C
 - expected_values:
-    ATLAS_MQB_RECIRC_FLAP_TRG: 177
-  response: 7B00562261F00B1
+    ATLAS_MQB_RECIRC_FLAP_TRG: 178
+  response: 7B00562261F00B2

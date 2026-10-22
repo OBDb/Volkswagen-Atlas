@@ -10,5 +10,5 @@ test_cases:
     ATLAS_BAT_V_2A07: 12.703
   response: 77A05622A0721FF
 - expected_values:
-    ATLAS_BAT_V_2A07: 14.753
-  response: 77A05622A072A01
+    ATLAS_BAT_V_2A07: 14.752
+  response: 77A05622A072A00

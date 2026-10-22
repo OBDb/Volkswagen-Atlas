@@ -3,47 +3,47 @@
     { "hdr": "7E1", "type": "transmission" }
   ],
   "commands": [
-{ "hdr": "70E", "rax": "778", "fcm1": true, "cmd": {"22": "1945"}, "freq": 2, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "cmd": {"22": "1945"}, "freq": 2, "dbgfilter": { "to": 2017, "from": 2024 },
   "signals": [
     {"id": "ATLAS_HEATER_FOR_NOZZLES_ACTIVE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Heater for nozzles active"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "0C0A"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "0C0A"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_HAL_MODE", "path": "Drivetrain", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "All-wheel drive mode"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2B1B"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2B1B"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_FL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2B1C"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2B1C"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_FR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2B1D"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2B1D"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_RL_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2B1E"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2B1E"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_RR_VSS", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BE6"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BE6"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_HAL_I", "path": "Drivetrain", "fmt": { "len": 16, "max": 65, "div": 1000, "unit": "amps" }, "name": "All-wheel drive current"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BE7"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BE7"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_HAL_PWM", "path": "Drivetrain", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "All-wheel drive pulse width modulation"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BE9"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BE9"}, "freq": 5, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_HAL_V", "path": "Battery", "fmt": { "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "All-wheel drive voltage"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BF0"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BF0"}, "freq": 0.25, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_HAL_F_R_VSS_DIFF", "path": "Movement", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometersPerHour" }, "name": "All-wheel drive front-rear speed differential"}
   ]},
-{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BF3"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "2BF3"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_HAL_DUTY", "path": "Drivetrain", "fmt": { "len": 8, "max": 100, "mul": 100.39, "div": 255, "unit": "percent" }, "name": "All-wheel drive duty cycle"}
   ]},
@@ -69,39 +69,39 @@
   "signals": [
     {"id": "ATLAS_ENERGY_CONTENT", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "kilowattHours" }, "name": "Energy content"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A00"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A00"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_MQB_GEN_TRG_V", "path": "Battery", "fmt": { "len": 8, "max": 36.1, "div": 10, "add": 10.6, "unit": "volts" }, "name": "Start/stop battery target voltage"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A07"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A07"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_BAT_V_2A07", "path": "Battery", "fmt": { "len": 16, "max": 69.535, "min": 4, "div": 1000, "add": 4, "nullmin": 4, "unit": "volts" }, "name": "Battery voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A09"}, "freq": 1, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A09"}, "freq": 1, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_BAT_I", "path": "Battery", "fmt": { "len": 32, "max": 1000, "min": -1000, "div": 1000, "sign": true, "unit": "amps" }, "name": "Battery current"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A0B"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A0B"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_BAT_T", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Battery temperature"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A0C"}, "freq": 10, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A0C"}, "freq": 10, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_BAT_SOC", "path": "Battery", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Battery charge level"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A0E"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A0E"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_BAT_INT_R", "path": "Battery", "fmt": { "len": 8, "max": 51, "mul": 20, "div": 100, "unit": "unknown" }, "name": "Battery internal resistance"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A0F"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A0F"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_USE_BAT_CHG", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "ampereHours" }, "name": "Usable battery charge"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A10"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A10"}, "freq": 5, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_BAT_V_AT_REST", "path": "Battery", "fmt": { "len": 8, "max": 34.5, "min": 9, "div": 10, "add": 9, "unit": "volts" }, "name": "Battery voltage at rest"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A15"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A15"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2025 },
   "signals": [
     {"id": "ATLAS_ENERGY_BALANCE_LAST", "path": "Engine", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "ampereHours" }, "name": "Energy balance of last driving cycle"}
   ]},
@@ -119,7 +119,7 @@
     {"id": "ATLAS_DCDC_I",     "path": "Battery", "fmt": {"bix": 8,  "len": 16, "max": 65024, "min": -511,            "add": -511, "unit": "amps"  }, "name": "DC-DC converter, current"},
     {"id": "ATLAS_DCDC_I_RSV", "path": "Battery", "fmt": {"bix": 24, "len": 16, "max": 65024, "min": -511,            "add": -511, "unit": "amps"  }, "name": "DC-DC converter, reserved current"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A61"}, "freq": 3600, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017, "years": [2020, 2022] },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "2A61"}, "freq": 3600, "filter": { "to": 2023 }, "dbgfilter": { "to": 2017 },
   "signals": [
     {"id": "ATLAS_MQB_BAT_TOT_CHG", "path": "Battery", "fmt": {           "len": 32, "max": 429496729.5, "div": 10, "unit": "ampereHours" }, "name": "Start/stop battery total charge"},
     {"id": "ATLAS_MQB_BAT_TOT_DIS", "path": "Battery", "fmt": {"bix": 32, "len": 32, "max": 429496729.5, "div": 10, "unit": "ampereHours" }, "name": "Start/stop battery total discharge"}
@@ -168,11 +168,11 @@
     {"id": "ATLAS_AUX_BAT_AGE_POW",  "path": "Battery", "fmt": {"bix": 168, "len": 8,  "max": 100,                                                              "unit": "percent"     }, "name": "12V battery aging by power"},
     {"id": "ATLAS_AUX_BAT_CAP",      "path": "Battery", "fmt": {"bix": 176, "len": 8,  "max": 100,                                                              "unit": "ampereHours" }, "name": "12V battery adapted capacity"}
   ]},
-{ "hdr": "712", "rax": "77C", "fcm1": true, "cmd": {"22": "1805"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "712", "rax": "77C", "fcm1": true, "cmd": {"22": "1805"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2025 },
   "signals": [
     {"id": "ATLAS_STEER_WHL_TQ_SENS_1", "path": "Tires", "fmt": { "len": 16, "max": 144.0709, "min": -143.9553, "mul": 0.004395, "add": 0.06, "sign": true, "unit": "degrees" }, "name": "Steering wheel torque sensor 1"}
   ]},
-{ "hdr": "712", "rax": "77C", "fcm1": true, "cmd": {"22": "1812"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "712", "rax": "77C", "fcm1": true, "cmd": {"22": "1812"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_SWA", "path": "Tires", "fmt": { "len": 16, "max": 4095.875, "min": -4096, "div": 8, "sign": true, "unit": "degrees" }, "name": "Steering wheel angle"}
   ]},
@@ -235,7 +235,7 @@
     {"id": "ATLAS_BDD_ACTIVE", "path": "Control", "fmt": {"bix": 1, "len": 1,  "max": 1,      "unit": "offon"      }, "name": "Brake disk drying"},
     {"id": "ATLAS_BDD_ODO",    "path": "Control", "fmt": {"bix": 8, "len": 24, "max": 200000, "unit": "kilometers" }, "name": "Brake disk drying, odometer at last activation"}
   ]},
-{ "hdr": "713", "rax": "77D", "fcm1": true, "cmd": {"22": "1810"}, "freq": 2, "filter": { "to": 2024 }, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "713", "rax": "77D", "fcm1": true, "cmd": {"22": "1810"}, "freq": 2, "filter": { "to": 2024 }, "dbgfilter": { "to": 2017, "from": 2024 },
   "signals": [
     {"id": "ATLAS_HYD_BRAKE_BOOST_ACTIVE", "path": "Control", "fmt": {"bix": 6, "len": 1, "max": 1, "unit": "offon" }, "name": "Hydraulic brake booster: active"}
   ]},
@@ -270,19 +270,19 @@
     {"id": "ATLAS_CNT_STEER_SUPPORT_ODO_RDG_OF_LAST_ACT", "path": "Trips",  "fmt": {"bix": 8,  "len": 24, "max": 16777215,              "unit": "kilometers"   }, "name": "Counter steer support, odometer, last activated"},
     {"id": "ATLAS_CNT_STEER_SUPPORT_STEERING_TRQ",        "path": "Engine", "fmt": {"bix": 32, "len": 16, "max": 65.535,   "div": 1000, "unit": "newtonMeters" }, "name": "Counter steer support, steering torque"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "1014"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "1014"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2027 },
   "signals": [
     {"id": "ATLAS_DASH_AMBIENT_AIR_T", "path": "Engine", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "220C"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "220C"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2025 },
   "signals": [
     {"id": "ATLAS_OUTSIDE_T", "path": "Engine", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Outside temperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2211"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2022, 2025], "from": 2027 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2211"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2022, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_CHG_AIR_P", "path": "Battery", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Charge air pressure"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "224B"}, "freq": 300, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "224B"}, "freq": 300, "dbgfilter": { "to": 2017, "from": 2027 },
   "signals": [
     {"id": "ATLAS_DASH_OIL_THERMAL_WEAR", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Oil thermal wear"}
   ]},
@@ -290,55 +290,55 @@
   "signals": [
     {"id": "ATLAS_DTE", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance to empty", "suggestedMetric": "fuelRange"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "22B8"}, "freq": 30, "dbgfilter": { "to": 2023, "from": 2025 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "22B8"}, "freq": 30, "dbgfilter": { "to": 2022, "from": 2025 },
   "signals": [
     {"id": "ATLAS_ODO_MILEAGE_HR", "path": "Trips", "fmt": { "len": 32, "max": 4294967, "div": 1000, "unit": "kilometers" }, "name": "Odometer, mileage, HR", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2603"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2603"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_A_C_COMP_SPD", "path": "Movement", "fmt": { "len": 8, "max": 25500, "mul": 100, "unit": "rpm" }, "name": "A/C compressor speed"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2604"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2604"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_A_C_COMP_LOAD", "path": "Engine", "fmt": { "len": 8, "max": 25.5, "div": 10, "unit": "newtonMeters" }, "name": "A/C compressor load"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2605"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2605"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_REFRIG_P", "path": "Engine", "fmt": { "len": 8, "max": 51, "div": 5, "unit": "bars" }, "name": "Refrigerant pressure"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2606"}, "freq": 2, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2606"}, "freq": 2, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_RAD_FAN_ACT_DUTY", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 0.4, "unit": "percent" }, "name": "Radiator fan actual duty"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2607"}, "freq": 2, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2607"}, "freq": 2, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_RAD_FAN_CMD_DUTY", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 0.4, "unit": "percent" }, "name": "Radiator fan commanded duty"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2609"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2609"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_AAT", "path": "Climate", "fmt": { "len": 8, "max": 63.5, "min": -64, "div": 2, "sign": true, "unit": "celsius" }, "name": "Outside temperature"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "260A"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "260A"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_OUTSIDE_T_SYSTEM", "path": "Engine", "fmt": { "len": 8, "max": 63.5, "min": -64, "div": 2, "sign": true, "unit": "celsius" }, "name": "Outside temperature, system calculated"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "260C"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "260C"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_FR_L_DEFL_T", "path": "Engine", "fmt": { "len": 8, "max": 84.915, "mul": 0.333, "unit": "celsius" }, "name": "Front left deflector temperature"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "260D"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "260D"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_FR_R_DEFL_T", "path": "Engine", "fmt": { "len": 8, "max": 84.915, "mul": 0.333, "unit": "celsius" }, "name": "Front right deflector temperature"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2611"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2611"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_LEG_DEFL_T", "path": "Engine", "fmt": { "len": 8, "max": 84.915, "mul": 0.333, "unit": "celsius" }, "name": "Leg deflector temperature"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2612"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2612"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_T_AFTER_EVAP", "path": "Engine", "fmt": { "len": 8, "max": 42.291, "min": -42.624, "mul": 0.333, "sign": true, "unit": "celsius" }, "name": "Temperature after evaporator"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2613"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2613"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CABIN_T", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Cabin temperature"}
   ]},
@@ -370,7 +370,7 @@
   "signals": [
     {"id": "ATLAS_CLIMATE_RR_DEFL_T", "path": "Engine", "fmt": { "len": 8, "max": 84.915, "mul": 0.333, "unit": "celsius" }, "name": "Rear deflector temperature"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "26ED"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "26ED"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_AIR_POLUTION_LVL", "path": "Engine", "fmt": { "len": 8, "max": 12.7, "min": -12.8, "div": 10, "sign": true, "unit": "scalar" }, "name": "Air pollution level"}
   ]},
@@ -378,7 +378,7 @@
   "signals": [
     {"id": "ATLAS_CABIN_CO2", "path": "Climate", "fmt": {"bix": 8, "len": 8, "max": 25500, "mul": 100, "unit": "scalar" }, "name": "CO2 content interior"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "482B"}, "freq": 2, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "482B"}, "freq": 2, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_CLIMATE_A_C_CLCH", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "A/C clutch"}
   ]},
@@ -386,7 +386,7 @@
   "signals": [
     {"id": "ATLAS_APP_D", "path": "Control", "fmt": { "len": 8, "max": 100, "div": 2.55, "unit": "percent" }, "name": "Absolute pedal position, drive"}
   ]},
-{ "hdr": "767", "rax": "7D1", "fcm1": true, "cmd": {"22": "0838"}, "freq": 5, "filter": { "from": 2021 }, "dbgfilter": { "years": [2022], "from": 2027 },
+{ "hdr": "767", "rax": "7D1", "fcm1": true, "cmd": {"22": "0838"}, "freq": 5, "filter": { "from": 2021 }, "dbgfilter": { "from": 2027 },
   "signals": [
     {"id": "ATLAS_ECALL_SOC", "path": "Battery", "fmt": {"bix": 8, "len": 8, "max": 100, "unit": "percent" }, "name": "ECall battery charge level"},
     {"id": "ATLAS_ECALL_STATUS", "path": "Battery", "name": "ECall battery status", "fmt": {"len": 8, "map": {
@@ -395,7 +395,7 @@
         }}
     }
   ]},
-{ "hdr": "767", "rax": "7D1", "fcm1": true, "cmd": {"22": "2431"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2027 },
+{ "hdr": "767", "rax": "7D1", "fcm1": true, "cmd": {"22": "2431"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
     {"id": "ATLAS_GPS_SATS_VISIBLE", "path": "GPS", "fmt": {          "len": 8, "max": 255, "unit": "scalar" }, "name": "Satellites, visible"},
     {"id": "ATLAS_GPS_SATS_TRACKED", "path": "GPS", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "scalar" }, "name": "Satellites, tracked"}
@@ -412,11 +412,11 @@
   "signals": [
     {"id": "ATLAS_OIL_LEVEL", "path": "Engine", "fmt": { "len": 16, "max": 26.2, "div": 2500, "unit": "centimeters" }, "name": "Oil level"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "295A"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "7E0", "cmd": {"22": "295A"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2023 },
   "signals": [
     {"id": "ATLAS_ODO_ECM", "path": "Trips", "fmt": { "len": 24, "max": 1048575, "nullmax": 1048575, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "028D"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "028D"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2023 },
   "signals": [
     {"id": "ATLAS_ENG_CTRL_MODULE_T", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Engine control module temperature"}
   ]},
@@ -432,7 +432,7 @@
   "signals": [
     {"id": "ATLAS_AC_COMP_T", "path": "Climate", "fmt": { "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "A/C compressor torque, requested"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1004"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1004"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_AAT_V2", "path": "Climate", "fmt": { "len": 16, "max": 255, "min": -255, "div": 128, "sign": true, "unit": "celsius" }, "name": "Ambient temperature"}
   ]},
@@ -548,7 +548,7 @@
   "signals": [
     {"id": "ATLAS_SUM_MIS_CNT", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Sum of misfires counter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "10F3"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "10F3"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_OIL_LEVEL_LAST_VALID", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Diesel particulate filter differential pressure variant 2"}
   ]},
@@ -628,7 +628,7 @@
   "signals": [
     {"id": "ATLAS_KNOCK_SENS_V_CYL_3_7E0", "path": "Battery", "fmt": { "len": 16, "max": 319, "mul": 21333, "div": 4369000, "unit": "volts" }, "name": "Knock sensor voltage, cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "112C"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "112C"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_ACT", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Turbine actuator 1 bank 1: activation"}
   ]},
@@ -636,15 +636,15 @@
   "signals": [
     {"id": "ATLAS_COOLANT_FAN_1_ACTIVATION", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 10000, "sign": true, "unit": "percent" }, "name": "Coolant fan 1, activation"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_COOLANT_T", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -40, "div": 10, "add": -273.1, "nullmin": -40, "nullmax": 300, "unit": "celsius" }, "name": "Coolant temperature at radiator outlet"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1139"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1139"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_MEAN_INJ_QUANTITY", "path": "Engine", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "unknown" }, "name": "Mean injection quantity"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "113F"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "113F"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_FUEL_CONS", "path": "Fuel", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "liters" }, "name": "Fuel consumption"}
   ]},
@@ -696,7 +696,7 @@
   "signals": [
     {"id": "ATLAS_T_AC_HEAT_EXCHANGER", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Temperature at air conditioner heat exchanger output"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "117E"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "117E"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_TURB_ACT_1_B1", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Turbine actuator 1 bank 1 activation"}
   ]},
@@ -704,7 +704,7 @@
   "signals": [
     {"id": "ATLAS_HIGH_P_TURBOCHARGER", "path": "Battery", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "percent" }, "name": "Charge adjuster output stage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1187"}, "freq": 0.25, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1187"}, "freq": 0.25, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_ACCELERATION", "path": "Movement", "fmt": { "len": 16, "max": 32.767, "min": -32.768, "div": 1000, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Acceleration"}
   ]},
@@ -740,15 +740,15 @@
   "signals": [
     {"id": "ATLAS_PQ35_FUEL_P_REG", "path": "Fuel", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Fuel pressure regulator position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CC"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CC"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_BOOST_REGULATOR_FEEDBACK", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Boost regulator feedback"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11CF"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CF"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_BRAKE_BOOSTER_P", "path": "Control", "fmt": { "len": 16, "max": 2559, "mul": 19531, "div": 500000, "unit": "unknown" }, "name": "Brake booster pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11E6"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11E6"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_MQB_DPF_EXH_VOL", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "mul": 1000, "div": 10000, "sign": true, "unit": "scalar" }, "name": "Diesel particulate filter exhaust gas flow volume"}
   ]},
@@ -764,7 +764,7 @@
   "signals": [
     {"id": "ATLAS_PRE_INJ_3_ACTIVATION", "path": "Engine", "fmt": { "len": 16, "max": 13.1, "min": -13.1, "div": 2500, "sign": true, "unit": "milliseconds" }, "name": "Pilot injection 3, activation duration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "dbg": true, "cmd": {"22": "121B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "121B"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_POST_INJ_2_7E0", "path": "Engine", "fmt": { "len": 16, "max": 13.1, "min": -13.1, "div": 2500, "sign": true, "unit": "milliseconds" }, "name": "Post-injection 2, activation duration"}
   ]},
@@ -772,11 +772,11 @@
   "signals": [
     {"id": "ATLAS_PRE_INJ_3_ACTIVATION_START", "path": "Engine", "fmt": { "len": 16, "max": 655, "min": -655, "div": 50, "sign": true, "unit": "degrees" }, "name": "Pilot injection 3, activation start"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "121E"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "121E"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_SPEC_VALUE_RAIL_P", "path": "Fuel", "fmt": { "len": 16, "max": 3276700, "min": -3276800, "mul": 100, "sign": true, "unit": "unknown" }, "name": "Fuel pressure regulator valve: specified value rail pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "121F"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "121F"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_HIGH_FUEL_P_CONTROL_DEVIATION", "path": "Fuel", "fmt": { "len": 16, "max": 3276700, "min": -3276800, "mul": 100, "sign": true, "unit": "unknown" }, "name": "High fuel pressure control deviation"}
   ]},
@@ -852,35 +852,35 @@
   "signals": [
     {"id": "ATLAS_KNOCK_SENS_V_CYL_5", "path": "Battery", "fmt": { "len": 16, "max": 4.99, "mul": 0.000076294, "unit": "volts" }, "name": "Knock sensor voltage:, cylinder 5"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "146D"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "146D"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_INJ_7_RAIL_P_CAL_PT_1", "path": "Engine", "fmt": { "len": 16, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "unknown" }, "name": "Injector 7: rail pressure calibration point 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "146E"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "146E"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_INJ_2_RAIL_P_CAL_PT_1_146E", "path": "Engine", "fmt": { "len": 16, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "unknown" }, "name": "Injector 2: rail pressure calibration point 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1473"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1473"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_INJ_7_RAIL_P_CAL_PT_2", "path": "Engine", "fmt": { "len": 16, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "unknown" }, "name": "Injector 7: rail pressure calibration point 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1474"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1474"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_INJ_2_RAIL_P_CAL_PT_2_1474", "path": "Engine", "fmt": { "len": 16, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "unknown" }, "name": "Injector 2: rail pressure calibration point 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1479"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1479"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_INJ_7_RAIL_P_CAL_PT_3", "path": "Engine", "fmt": { "len": 16, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "unknown" }, "name": "Injector 7: rail pressure calibration point 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "147A"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "147A"}, "freq": 300, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_INJ_2_RAIL_P_CAL_PT_3_147A", "path": "Engine", "fmt": { "len": 16, "max": 1638.35, "min": -1638.4, "div": 20, "sign": true, "unit": "unknown" }, "name": "Injector 2: rail pressure calibration point 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "dbg": true, "cmd": {"22": "1480"}, "freq": 3600,
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "1480"}, "freq": 3600, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_MIS_CNT_3", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfires counter:, cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "dbg": true, "cmd": {"22": "1481"}, "freq": 3600,
+{ "hdr": "7E0", "rax": "7E8", "fcm1": true, "cmd": {"22": "1481"}, "freq": 3600, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_MIS_CNT_6", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfires counter:, cylinder 6"}
   ]},
@@ -912,7 +912,7 @@
   "signals": [
     {"id": "ATLAS_FUEL_LEVEL_INPUT_V1", "path": "Fuel", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "liters" }, "name": "Fuel level input, v1", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CB"}, "freq": 0.25, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CB"}, "freq": 0.25, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_GEAR_V2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
   ]},
@@ -936,7 +936,7 @@
   "signals": [
     {"id": "ATLAS_OIL_LEVEL_LAST", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Diesel particulate filter differential pressure, dynamic offset"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "15D4"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "15D4"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_LAMBDA_OUTPUT", "path": "Engine", "fmt": { "len": 16, "max": 1.99, "mul": 199997, "div": 6553500000, "unit": "scalar" }, "name": "Lambda output value"}
   ]},
@@ -1016,35 +1016,35 @@
   "signals": [
     {"id": "ATLAS_CHG_AIR_P_ACTUATOR_7E0", "path": "Battery", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Charge air pressure actuator position digit.value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2005"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2005"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_BRAKE_BOOSTER_P", "path": "Control", "fmt": { "len": 16, "max": 5434, "mul": 0.08291753, "unit": "unknown" }, "name": "Brake booster pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2006"}, "freq": 30, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2006"}, "freq": 30, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_OIL_FILL_LEVEL", "path": "Engine", "fmt": { "len": 16, "max": 1966.02, "min": -1966.08, "mul": 0.06, "sign": true, "unit": "millimeters" }, "name": "Oil fill level"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "200A"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "200A"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_TIMING_ANGLE_RETARDATION_CYL_1", "path": "Engine", "fmt": { "len": 8, "max": 47.625, "min": -48, "mul": 0.375, "add": -48, "unit": "degrees" }, "name": "Timing angle retardation cylinder 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "200B"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "200B"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_TIMING_ANGLE_RETARDATION_CYL_2", "path": "Engine", "fmt": { "len": 8, "max": 47.625, "min": -48, "mul": 0.375, "add": -48, "unit": "degrees" }, "name": "Timing angle retardation cylinder 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "200C"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "200C"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_TIMING_ANGLE_RETARDATION_CYL_3", "path": "Engine", "fmt": { "len": 8, "max": 47.625, "min": -48, "mul": 0.375, "add": -48, "unit": "degrees" }, "name": "Timing angle retardation cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "200D"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "200D"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_TIMING_ANGLE_RETARDATION_CYL_4", "path": "Engine", "fmt": { "len": 8, "max": 47.625, "min": -48, "mul": 0.375, "add": -48, "unit": "degrees" }, "name": "Timing angle retardation cylinder 4"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2029"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2029"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_CHARGE_AIR_P_SPECIFIED", "path": "Battery", "fmt": { "len": 16, "max": 5242.8, "mul": 0.08, "unit": "unknown" }, "name": "Charge air pressure: specified"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "202A"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "202A"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_CHARGE_AIR_P_ACTUAL", "path": "Battery", "fmt": { "len": 16, "max": 5242.8, "mul": 0.08, "unit": "unknown" }, "name": "Charge air pressure: actual"}
   ]},
@@ -1056,19 +1056,19 @@
   "signals": [
     {"id": "ATLAS_INJ_QTY_DEV_CYL_5", "path": "Engine", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "unknown" }, "name": "Injection quantity deviation, cylinder 5"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2061"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2061"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2023 },
   "signals": [
     {"id": "ATLAS_APP_POS1", "path": "Control.Pedals", "fmt": { "len": 16, "max": 65, "div": 1000, "unit": "volts" }, "name": "Accelerator pedal position sensor 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2062"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2062"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2023 },
   "signals": [
     {"id": "ATLAS_APP_POS2", "path": "Control.Pedals", "fmt": { "len": 16, "max": 65, "div": 1000, "unit": "volts" }, "name": "Accelerator pedal position sensor 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "20A1"}, "freq": 5, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "20A1"}, "freq": 5, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_CALCULATED_OIL_T", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Calculated oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2206"}, "freq": 30, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2206"}, "freq": 30, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_PQ35_FUEL_LEVEL_7E0_2206", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -1100,7 +1100,7 @@
   "signals": [
     {"id": "ATLAS_REMAINING_DIST_UNTIL", "path": "Trips", "fmt": { "len": 32, "max": 214748364, "div": 20, "unit": "kilometers" }, "name": "Remaining distance until reducing agent deficiency"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "29D4"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "29D4"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_ENG_TRQ_REQ_1", "path": "Drivetrain", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "newtonMeters" }, "name": "Driver torque requested #1"}
   ]},
@@ -1116,7 +1116,7 @@
   "signals": [
     {"id": "ATLAS_OIL_P_ACT_7E0_2_7E0", "path": "Engine", "fmt": { "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "kilopascal" }, "name": "Oil pressure, actual value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "395E"}, "freq": 0.25, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "395E"}, "freq": 0.25, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_BRAKE_SYSTEM_VACUUM", "path": "Control", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Brake system vacuum pump active"}
   ]},
@@ -1200,7 +1200,7 @@
   "signals": [
     {"id": "ATLAS_LOST_TQ_ADPT_AC", "path": "Engine", "fmt": { "len": 16, "max": 3276, "min": -3276, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Lost torque adaptation A/C + driving mode"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4380"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4380"}, "freq": 1, "filter": { "from": 2021 }, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ATLAS_ENG_TRQ_REQ_2", "path": "Drivetrain", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "newtonMeters" }, "name": "Driver torque requested #2"}
   ]},
@@ -1268,27 +1268,27 @@
   "signals": [
     {"id": "ATLAS_MILEAGE_OXIDATION", "path": "Transmission", "fmt": { "len": 16, "max": 655350, "mul": 10, "unit": "kilometers" }, "name": "Mileage of oxidation catalytic converter"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020], "from": 2025 },
   "signals": [
     {"id": "ATLAS_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed", "description": "Current vehicle speed."}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2025 },
   "signals": [
     {"id": "ATLAS_RUNTM", "path": "Clocks", "fmt": { "len": 16, "max": 65535, "unit": "seconds" }, "name": "Time since engine start", "description": "How long it's been since the engine started."}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F421"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F421"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020], "from": 2025 },
   "signals": [
     {"id": "ATLAS_MIL_DIST", "path": "DTCs", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance traveled while mil was activated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F430"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F430"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020], "from": 2025 },
   "signals": [
     {"id": "ATLAS_WARM_UPS", "path": "DTCs", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of warm-ups since diagnostic trouble codes cleared"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F431"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F431"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020], "from": 2025 },
   "signals": [
     {"id": "ATLAS_CLR_DIST", "path": "DTCs", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance traveled since diagnostic trouble codes cleared", "suggestedMetric": "distanceSinceDTCsCleared"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F442"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F442"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2025 },
   "signals": [
     {"id": "ATLAS_VPWR", "path": "Battery", "fmt": { "len": 16, "max": 65, "div": 1000, "unit": "volts" }, "name": "Control module voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
@@ -1412,11 +1412,11 @@
   "signals": [
     {"id": "ATLAS_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 32.111, "min": -32.11, "mul": 9.8, "div": 10000, "sign": true, "unit": "millimeters" }, "name": "Clutch 2 characteristic curve shift"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "10AF"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "10AF"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_GR", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "millimeters" }, "name": "Gear actuator adaptation synchronization position reverse"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "10B0"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "10B0"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_GR", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "millimeters" }, "name": "Gear actuator adaptation engaged position GR"}
   ]},
@@ -1511,23 +1511,23 @@
   "signals": [
     {"id": "ATLAS_CLU_OVERHEATING_CLU", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Clutch overheating, clutch"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2102"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2102"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_TRANSMISSION_INPUT_SPD", "path": "Transmission", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Automatic transmission input speed"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2103"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2103"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_TRANSMISSION_OUTPUT_SPD", "path": "Transmission", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Automatic transmission output speed"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2104"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2104"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020, 2024], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC", "path": "Fluids", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Automatic transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "2105"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2105"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_TQ_TRANSMITTING", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "scalar" }, "name": "Torque transmitting function, ratio"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "2106"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2106"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_VSS_HR", "path": "Movement", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "kilometersPerHour" }, "name": "Vehicle speed, HR"}
   ]},
@@ -1539,11 +1539,11 @@
   "signals": [
     {"id": "ATLAS_DRIVING_MODE_SENS", "path": "Engine", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "scalar" }, "name": "Driving mode sensor, hall sensor a"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "210E"}, "freq": 1,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "210E"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_DRIVING_POS", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Driving position"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "210F"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "210F"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2024], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_I_GEAR", "path": "Transmission", "name": "Current gear", "description": "The automatic transmission gear.", "fmt": {"len": 8, "map": {
           "1": { "description": "First gear",   "value": "1" },
@@ -1557,7 +1557,7 @@
         }}
     }
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2114"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2114"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_KICK_DOWN", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Kick down"}
   ]},
@@ -1577,7 +1577,7 @@
   "signals": [
     {"id": "ATLAS_ACCEL_DECCELERATION", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Acceleration or deceleration mode"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "2119"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2119"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_TQ_FACTOR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Torque factor"}
   ]},
@@ -1589,7 +1589,7 @@
   "signals": [
     {"id": "ATLAS_TQ_CONV", "path": "Transmission", "fmt": { "len": 8, "max": 2.55, "div": 100, "unit": "scalar" }, "name": "Torque converter amplification"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2131"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2131"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_TORQUE_CONVERTER_SLIP_TCM", "path": "ECU", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "rpm" }, "name": "Torque converter slip"}
   ]},
@@ -1605,47 +1605,47 @@
   "signals": [
     {"id": "ATLAS_ROUTE_DATA_ACTIVE", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Route data, active"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3800"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3800"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_STOP_SIGNAL_SWITCH", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Stop signal switch"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3803"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3803"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_BRAKE_P", "path": "Control", "fmt": { "len": 16, "blsb": true, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "bars" }, "name": "Brake pressure"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3816"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3816"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_I_GEAR_DQ200", "path": "Transmission", "fmt": { "len": 8, "max": 253, "min": -2, "add": -2, "unit": "scalar" }, "name": "Current gear"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3841"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3841"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020, 2024], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_ODO", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3871"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3871"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_MQB_DQ250_SPECIFIED_IDLE_RPM", "path": "Movement", "fmt": { "len": 16, "blsb": true, "max": 7000, "unit": "rpm" }, "name": "Specified idle RPM"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3887"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3887"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2020, 2024], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_ODO_2", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer #2"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3888"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3888"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_DRIVING_TIME_ECOLOGICAL", "path": "Trips", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Driving time ecological"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3889"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3889"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_DRIVING_TIME_SPORTY", "path": "Trips", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Driving time sporty"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "388A"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "388A"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_DRIVING_TIME_MANUAL", "path": "Trips", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Driving time manual"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "388B"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "388B"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_DRIVE_CYCLES_COUNTER", "path": "Trips", "fmt": { "len": 16, "blsb": true, "max": 65535, "unit": "scalar" }, "name": "Drive cycles counter"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "388C"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "388C"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_IGNITION_CYCLES", "path": "Trips", "fmt": { "len": 16, "blsb": true, "max": 65535, "unit": "scalar" }, "name": "Ignition cycles"}
   ]},
@@ -1669,15 +1669,15 @@
   "signals": [
     {"id": "ATLAS_AUX_HYDRAULIC_PMP_V", "path": "Battery", "fmt": { "len": 8, "max": 25.5, "div": 10, "unit": "volts" }, "name": "Aux. hydraulic pump voltage"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "704F"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "704F"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_ATF_MAX", "path": "Engine", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Automatic transmission fluid temperature, lifetime max"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "7064"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022], "from": 2024 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "7064"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020], "from": 2024 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_ENG_TORQUE", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "newtonMeters" }, "name": "Engine torque"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "7078"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2022, 2024, 2025], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "7078"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2020, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "ATLAS_MQB_TCM_TORQUE_CONVERTER_LOCKUP_CLUTCH_STATUS", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Torque converter lockup clutch status"}
   ]},
@@ -1770,7 +1770,7 @@
   "signals": [
     {"id": "ATLAS_AUX_HYDRAULIC_PMP_RPM", "path": "Movement", "fmt": { "len": 8, "max": 8160, "mul": 32, "unit": "rpm" }, "name": "Aux. hydraulic pump RPM"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "F40D"}, "freq": 0.25,
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "ATLAS_VSS_7E1", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},

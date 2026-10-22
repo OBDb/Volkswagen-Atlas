@@ -4,8 +4,8 @@ test_cases:
     ATLAS_PQ35_OIL_T_2: 4
   response: 7E8056211BE0004
 - expected_values:
-    ATLAS_PQ35_OIL_T_2: -16
-  response: 7E8056211BEFFF0
+    ATLAS_PQ35_OIL_T_2: -26
+  response: 7E8056211BEFFE6
 - expected_values:
     ATLAS_PQ35_OIL_T_2: -4
   response: 7E8056211BEFFFC

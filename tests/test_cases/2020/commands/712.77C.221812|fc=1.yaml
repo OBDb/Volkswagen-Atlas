@@ -1,0 +1,5 @@
+command_id: 712.77C.221812|fc=1
+test_cases:
+- expected_values:
+    ATLAS_MQB_SWA: 40.375
+  response: 77C06621812014301

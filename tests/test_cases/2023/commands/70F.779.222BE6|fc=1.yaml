@@ -4,8 +4,8 @@ test_cases:
     ATLAS_PQ35_HAL_I: 0
   response: 77905622BE60000
 - expected_values:
-    ATLAS_PQ35_HAL_I: 1
-  response: 77905622BE603E8
+    ATLAS_PQ35_HAL_I: 3.05
+  response: 77905622BE60BEA
 - expected_values:
-    ATLAS_PQ35_HAL_I: 1.074
-  response: 77905622BE60432
+    ATLAS_PQ35_HAL_I: 3.271
+  response: 77905622BE60CC7

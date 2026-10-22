@@ -1,20 +1,8 @@
 command_id: 714.77E.221014|fc=1
 test_cases:
 - expected_values:
-    ATLAS_DASH_AMBIENT_AIR_T: 18
-  response: '77E0462101488'
-- expected_values:
-    ATLAS_DASH_AMBIENT_AIR_T: 19.5
-  response: 77E046210148B
-- expected_values:
-    ATLAS_DASH_AMBIENT_AIR_T: 21.5
-  response: 77E046210148F
-- expected_values:
-    ATLAS_DASH_AMBIENT_AIR_T: 22
-  response: '77E0462101490'
-- expected_values:
-    ATLAS_DASH_AMBIENT_AIR_T: 23
-  response: '77E0462101492'
+    ATLAS_DASH_AMBIENT_AIR_T: 3.5
+  response: 77E046210146B
 - expected_values:
     ATLAS_DASH_AMBIENT_AIR_T: 24.5
   response: '77E0462101495'

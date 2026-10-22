@@ -1,0 +1,23 @@
+command_id: 712.77C.221812|fc=1
+test_cases:
+- expected_values:
+    ATLAS_MQB_SWA: 1
+  response: 77C06621812000801
+- expected_values:
+    ATLAS_MQB_SWA: 1.375
+  response: 77C06621812000B01
+- expected_values:
+    ATLAS_MQB_SWA: 1.75
+  response: 77C06621812000E01
+- expected_values:
+    ATLAS_MQB_SWA: 1.875
+  response: 77C06621812000F01
+- expected_values:
+    ATLAS_MQB_SWA: 2.875
+  response: 77C06621812001701
+- expected_values:
+    ATLAS_MQB_SWA: 3.125
+  response: 77C06621812001901
+- expected_values:
+    ATLAS_MQB_SWA: 3.25
+  response: 77C06621812001A01

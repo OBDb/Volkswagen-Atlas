@@ -1,0 +1,23 @@
+command_id: 710.77A.222A07|fc=1,f=-2023
+test_cases:
+- expected_values:
+    ATLAS_BAT_V_2A07: 12.951
+  response: 77A05622A0722F7
+- expected_values:
+    ATLAS_BAT_V_2A07: 12.953
+  response: 77A05622A0722F9
+- expected_values:
+    ATLAS_BAT_V_2A07: 12.958
+  response: 77A05622A0722FE
+- expected_values:
+    ATLAS_BAT_V_2A07: 12.963
+  response: 77A05622A072303
+- expected_values:
+    ATLAS_BAT_V_2A07: 12.966
+  response: 77A05622A072306
+- expected_values:
+    ATLAS_BAT_V_2A07: 12.968
+  response: 77A05622A072308
+- expected_values:
+    ATLAS_BAT_V_2A07: 12.98
+  response: 77A05622A072314
