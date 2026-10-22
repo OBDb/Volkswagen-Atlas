@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22112C|f=2021-
+test_cases:
+- expected_values:
+    ATLAS_ACT: 0
+  response: 7E80562112C0000

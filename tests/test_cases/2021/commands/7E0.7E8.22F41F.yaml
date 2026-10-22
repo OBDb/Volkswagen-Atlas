@@ -7,5 +7,5 @@ test_cases:
     ATLAS_RUNTM: 255
   response: 7E80562F41F00FF
 - expected_values:
-    ATLAS_RUNTM: 8194
-  response: 7E80562F41F2002
+    ATLAS_RUNTM: 16239
+  response: 7E80562F41F3F6F

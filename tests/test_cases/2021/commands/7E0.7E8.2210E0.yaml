@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2210E0
 test_cases:
 - expected_values:
+    ATLAS_ODO: 68572
+  response: 7E8076210E000010BDC
+- expected_values:
     ATLAS_ODO: 84229
   response: 7E8076210E000014905
-- expected_values:
-    ATLAS_ODO: 84242
-  response: 7E8076210E000014912
 - expected_values:
     ATLAS_ODO: 84453
   response: 7E8076210E0000149E5

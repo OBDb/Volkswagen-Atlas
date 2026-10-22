@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22388B
+test_cases:
+- expected_values:
+    ATLAS_MQB_TCM_DRIVE_CYCLES_COUNTER: 50977
+  response: 7E90562388B21C7

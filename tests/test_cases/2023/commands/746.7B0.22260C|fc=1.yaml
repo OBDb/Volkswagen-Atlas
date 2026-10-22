@@ -4,23 +4,8 @@ test_cases:
     ATLAS_CLIMATE_FR_L_DEFL_T: 22.311
   response: '7B0 04 62 26 0C 43 '
 - expected_values:
-    ATLAS_CLIMATE_FR_L_DEFL_T: 12.321
-  response: 7B00462260C25
+    ATLAS_CLIMATE_FR_L_DEFL_T: 8.658
+  response: 7B00462260C1A
 - expected_values:
-    ATLAS_CLIMATE_FR_L_DEFL_T: 17.982
-  response: 7B00462260C36
-- expected_values:
-    ATLAS_CLIMATE_FR_L_DEFL_T: 18.315
-  response: 7B00462260C37
-- expected_values:
-    ATLAS_CLIMATE_FR_L_DEFL_T: 19.314
-  response: 7B00462260C3A
-- expected_values:
-    ATLAS_CLIMATE_FR_L_DEFL_T: 22.977
-  response: 7B00462260C45
-- expected_values:
-    ATLAS_CLIMATE_FR_L_DEFL_T: 23.643
-  response: 7B00462260C47
-- expected_values:
-    ATLAS_CLIMATE_FR_L_DEFL_T: 24.975
-  response: 7B00462260C4B
+    ATLAS_CLIMATE_FR_L_DEFL_T: 34.632
+  response: 7B00462260C68

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    ATLAS_MEAN_INJ_QUANTITY: 6.22
+  response: 7E805621139026E

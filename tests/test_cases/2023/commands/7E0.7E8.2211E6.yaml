@@ -4,23 +4,8 @@ test_cases:
     ATLAS_MQB_DPF_EXH_VOL: 0
   response: 7E8056211E60000
 - expected_values:
-    ATLAS_MQB_DPF_EXH_VOL: 51.8
-  response: 7E8056211E60206
-- expected_values:
-    ATLAS_MQB_DPF_EXH_VOL: 53.9
-  response: 7E8056211E6021B
-- expected_values:
-    ATLAS_MQB_DPF_EXH_VOL: 54.2
-  response: 7E8056211E6021E
-- expected_values:
-    ATLAS_MQB_DPF_EXH_VOL: 69
-  response: 7E8056211E602B2
-- expected_values:
-    ATLAS_MQB_DPF_EXH_VOL: 71.6
-  response: 7E8056211E602CC
-- expected_values:
-    ATLAS_MQB_DPF_EXH_VOL: 114
-  response: 7E8056211E60474
-- expected_values:
     ATLAS_MQB_DPF_EXH_VOL: 203.7
   response: 7E8056211E607F5
+- expected_values:
+    ATLAS_MQB_DPF_EXH_VOL: 293.4
+  response: 7E8056211E60B76

@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.221139
 test_cases:
 - expected_values:
-    ATLAS_MEAN_INJ_QUANTITY: 160.18
-  response: 7E8056211393E92
+    ATLAS_MEAN_INJ_QUANTITY: 157.12
+  response: 7E8056211393D60
+- expected_values:
+    ATLAS_MEAN_INJ_QUANTITY: 160.01
+  response: 7E8056211393E81
 - expected_values:
     ATLAS_MEAN_INJ_QUANTITY: 163.84
   response: '7E8056211394000'
-- expected_values:
-    ATLAS_MEAN_INJ_QUANTITY: 165.42
-  response: 7E805621139409E
-- expected_values:
-    ATLAS_MEAN_INJ_QUANTITY: 165.84
-  response: 7E80562113940C8
-- expected_values:
-    ATLAS_MEAN_INJ_QUANTITY: 165.88
-  response: 7E80562113940CC
-- expected_values:
-    ATLAS_MEAN_INJ_QUANTITY: 168.78
-  response: 7E80562113941EE
-- expected_values:
-    ATLAS_MEAN_INJ_QUANTITY: 170.93
-  response: 7E80562113942C5
 - expected_values:
     ATLAS_MEAN_INJ_QUANTITY: 171.39
   response: 7E80562113942F3

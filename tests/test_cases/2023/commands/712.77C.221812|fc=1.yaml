@@ -4,8 +4,8 @@ test_cases:
     ATLAS_MQB_SWA: 1.875
   response: 77C06621812000F01
 - expected_values:
+    ATLAS_MQB_SWA: 255.625
+  response: 77C0662181207FD01
+- expected_values:
     ATLAS_MQB_SWA: -25.125
   response: 77C06621812FF3701
-- expected_values:
-    ATLAS_MQB_SWA: -1.25
-  response: 77C06621812FFF601

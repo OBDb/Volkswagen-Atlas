@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222105
+test_cases:
+- expected_values:
+    ATLAS_TQ_TRANSMITTING: 0
+  response: '7E9056221050000'
+- expected_values:
+    ATLAS_TQ_TRANSMITTING: 20.2
+  response: 7E90562210500CA
+- expected_values:
+    ATLAS_TQ_TRANSMITTING: 25.7
+  response: '7E9056221050101'

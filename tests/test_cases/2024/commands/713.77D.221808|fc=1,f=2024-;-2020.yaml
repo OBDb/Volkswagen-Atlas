@@ -2,8 +2,8 @@ command_id: 713.77D.221808|fc=1,f=2024-;-2020
 test_cases:
 - expected_values:
     ATLAS_HDC_ACTIVE: 0
-    ATLAS_HDC_INCLINE: 56
-  response: 77D056218080038
+    ATLAS_HDC_INCLINE: 0
+  response: 77D056218080000
 - expected_values:
     ATLAS_HDC_ACTIVE: 0
     ATLAS_HDC_INCLINE: 0

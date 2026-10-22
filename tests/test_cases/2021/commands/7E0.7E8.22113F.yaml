@@ -4,11 +4,11 @@ test_cases:
     ATLAS_FUEL_CONS: 1.97
   response: 7E80562113F00C5
 - expected_values:
-    ATLAS_FUEL_CONS: 642.58
-  response: 7E80562113FFB02
+    ATLAS_FUEL_CONS: 5.12
+  response: 7E80562113F0200
 - expected_values:
     ATLAS_FUEL_CONS: 645.1
   response: 7E80562113FFBFE
 - expected_values:
-    ATLAS_FUEL_CONS: 647.75
-  response: 7E80562113FFD07
+    ATLAS_FUEL_CONS: 654.14
+  response: 7E80562113FFF86

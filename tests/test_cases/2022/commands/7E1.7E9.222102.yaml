@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.222102
+test_cases:
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_INPUT_SPD: 212.5
+  response: '7E9056221020352'
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_INPUT_SPD: 214.5
+  response: 7E905622102035A
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_INPUT_SPD: 216.75
+  response: '7E9056221020363'
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_INPUT_SPD: 218
+  response: '7E9056221020368'
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_INPUT_SPD: 364.75
+  response: 7E90562210205B3

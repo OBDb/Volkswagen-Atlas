@@ -1,0 +1,8 @@
+command_id: 710.77A.222A61|fc=1,f=-2023
+test_cases:
+- expected_values:
+    ATLAS_MQB_BAT_TOT_CHG: 4757.9
+    ATLAS_MQB_BAT_TOT_DIS: 4670.6
+  response: |-
+    77A100B622A610000B9
+    77A21DB0000B672AAAA

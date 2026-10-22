@@ -1,0 +1,20 @@
+command_id: 746.7B0.222612|fc=1
+test_cases:
+- expected_values:
+    ATLAS_CLIMATE_T_AFTER_EVAP: 7.659
+  response: 7B00462261217
+- expected_values:
+    ATLAS_CLIMATE_T_AFTER_EVAP: 7.992
+  response: 7B00462261218
+- expected_values:
+    ATLAS_CLIMATE_T_AFTER_EVAP: 8.325
+  response: 7B00462261219
+- expected_values:
+    ATLAS_CLIMATE_T_AFTER_EVAP: 8.658
+  response: 7B0046226121A
+- expected_values:
+    ATLAS_CLIMATE_T_AFTER_EVAP: 9.324
+  response: 7B0046226121C
+- expected_values:
+    ATLAS_CLIMATE_T_AFTER_EVAP: 10.989
+  response: 7B00462261221

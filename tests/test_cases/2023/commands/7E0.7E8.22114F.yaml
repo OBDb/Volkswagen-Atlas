@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.22114F
 test_cases:
 - expected_values:
-    ATLAS_MIS_1_7E0: 20175
-  response: 7E80562114F4ECF
-- expected_values:
-    ATLAS_MIS_1_7E0: 20178
-  response: 7E80562114F4ED2
-- expected_values:
-    ATLAS_MIS_1_7E0: 20180
-  response: 7E80562114F4ED4
-- expected_values:
-    ATLAS_MIS_1_7E0: 20207
-  response: 7E80562114F4EEF
+    ATLAS_MIS_1_7E0: 5155
+  response: 7E80562114F1423
 - expected_values:
     ATLAS_MIS_1_7E0: 20215
   response: 7E80562114F4EF7
 - expected_values:
     ATLAS_MIS_1_7E0: 20255
   response: 7E80562114F4F1F
-- expected_values:
-    ATLAS_MIS_1_7E0: 20366
-  response: 7E80562114F4F8E
-- expected_values:
-    ATLAS_MIS_1_7E0: 20382
-  response: 7E80562114F4F9E

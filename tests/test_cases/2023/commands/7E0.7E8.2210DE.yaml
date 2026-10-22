@@ -4,17 +4,11 @@ test_cases:
     ATLAS_PQ35_INJ_4_RAIL_P_3: 0
   response: 7E8056210DE0000
 - expected_values:
-    ATLAS_PQ35_INJ_4_RAIL_P_3: 0.008
-  response: 7E8056210DE00A0
+    ATLAS_PQ35_INJ_4_RAIL_P_3: 0.0052
+  response: 7E8056210DE0068
 - expected_values:
-    ATLAS_PQ35_INJ_4_RAIL_P_3: 0.0303
-  response: 7E8056210DE025E
+    ATLAS_PQ35_INJ_4_RAIL_P_3: -0.0136
+  response: 7E8056210DEFEF0
 - expected_values:
-    ATLAS_PQ35_INJ_4_RAIL_P_3: 0.0599
-  response: 7E8056210DE04AE
-- expected_values:
-    ATLAS_PQ35_INJ_4_RAIL_P_3: -0.0443
-  response: 7E8056210DEFC8A
-- expected_values:
-    ATLAS_PQ35_INJ_4_RAIL_P_3: -0.0192
-  response: 7E8056210DEFE80
+    ATLAS_PQ35_INJ_4_RAIL_P_3: -0.0077
+  response: 7E8056210DEFF66

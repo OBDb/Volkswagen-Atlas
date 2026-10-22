@@ -9,3 +9,15 @@ test_cases:
 - expected_values:
     ATLAS_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 173.75
   response: 7E90562210302B7
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 223
+  response: 7E905622103037C
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 371.5
+  response: 7E90562210305CE
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 684.75
+  response: 7E9056221030AB3
+- expected_values:
+    ATLAS_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 707.75
+  response: 7E9056221030B0F

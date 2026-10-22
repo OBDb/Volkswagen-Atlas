@@ -1,14 +1,14 @@
 command_id: 710.77A.222A09|fc=1,f=-2023
 test_cases:
 - expected_values:
-    ATLAS_BAT_I: 0.427
-  response: 77A07622A09000001AB
+    ATLAS_BAT_I: 0.263
+  response: 77A07622A0900000107
+- expected_values:
+    ATLAS_BAT_I: -23.227
+  response: 77A07622A09FFFFA545
 - expected_values:
     ATLAS_BAT_I: -14.598
   response: 77A07622A09FFFFC6FA
-- expected_values:
-    ATLAS_BAT_I: -13.56
-  response: 77A07622A09FFFFCB08
 - expected_values:
     ATLAS_BAT_I: -0.241
   response: 77A07622A09FFFFFF0F

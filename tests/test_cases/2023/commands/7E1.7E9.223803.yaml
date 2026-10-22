@@ -1,5 +1,17 @@
 command_id: 7E1.7E9.223803
 test_cases:
 - expected_values:
+    ATLAS_MQB_TCM_BRAKE_P: -261.01
+  response: 7E9056238030B9A
+- expected_values:
     ATLAS_MQB_TCM_BRAKE_P: -184.21
   response: 7E9056238030BB8
+- expected_values:
+    ATLAS_MQB_TCM_BRAKE_P: 312.45
+  response: 7E9056238030D7A
+- expected_values:
+    ATLAS_MQB_TCM_BRAKE_P: -230.26
+  response: 7E9056238030EA6
+- expected_values:
+    ATLAS_MQB_TCM_BRAKE_P: 46.35
+  response: 7E9056238031B12

@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
-    ATLAS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 18
-  response: 7E9046221043A
+    ATLAS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 1
+  response: '7E90462210429'
 - expected_values:
     ATLAS_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 99
   response: 7E9046221048B

@@ -1,5 +1,32 @@
 command_id: 7E0.7E8.22105A|fc=1,c=17
 test_cases:
 - expected_values:
+    ATLAS_BATTERY_V: 11.8
+  response: 7E80562105A024E
+- expected_values:
+    ATLAS_BATTERY_V: 12.06
+  response: 7E80562105A025B
+- expected_values:
+    ATLAS_BATTERY_V: 12.42
+  response: 7E80562105A026D
+- expected_values:
+    ATLAS_BATTERY_V: 12.62
+  response: 7E80562105A0277
+- expected_values:
+    ATLAS_BATTERY_V: 12.76
+  response: 7E80562105A027E
+- expected_values:
     ATLAS_BATTERY_V: 14.18
   response: 7E80562105A02C5
+- expected_values:
+    ATLAS_BATTERY_V: 14.56
+  response: 7E80562105A02D8
+- expected_values:
+    ATLAS_BATTERY_V: 14.68
+  response: 7E80562105A02DE
+- expected_values:
+    ATLAS_BATTERY_V: 14.74
+  response: 7E80562105A02E1
+- expected_values:
+    ATLAS_BATTERY_V: 14.78
+  response: 7E80562105A02E3

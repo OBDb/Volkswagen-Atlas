@@ -7,5 +7,5 @@ test_cases:
     ATLAS_CABIN_T: 25.5
   response: 7B00562261300FF
 - expected_values:
-    ATLAS_CABIN_T: 25.6
-  response: 7B0056226130100
+    ATLAS_CABIN_T: -0.9
+  response: 7B005622613FFF7

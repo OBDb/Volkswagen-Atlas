@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.2214F8
 test_cases:
 - expected_values:
-    ATLAS_AAT_V1: 61.28
-  response: 7E8056214F80B50
+    ATLAS_AAT_V1: 39.68
+  response: 7E8056214F80AD8
 - expected_values:
-    ATLAS_AAT_V1: 66.68
-  response: 7E8056214F80B6E
-- expected_values:
-    ATLAS_AAT_V1: 72.08
-  response: 7E8056214F80B8C
-- expected_values:
-    ATLAS_AAT_V1: 73.34
-  response: 7E8056214F80B93
-- expected_values:
-    ATLAS_AAT_V1: 74.78
-  response: 7E8056214F80B9B
-- expected_values:
-    ATLAS_AAT_V1: 76.04
-  response: 7E8056214F80BA2
-- expected_values:
-    ATLAS_AAT_V1: 85.58
-  response: 7E8056214F80BD7
+    ATLAS_AAT_V1: 50.48
+  response: 7E8056214F80B14

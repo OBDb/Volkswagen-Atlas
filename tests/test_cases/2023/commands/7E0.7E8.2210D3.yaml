@@ -6,3 +6,15 @@ test_cases:
 - expected_values:
     ATLAS_PQ35_INJ_2_RAIL_P_1: 0.0001
   response: 7E8056210D30002
+- expected_values:
+    ATLAS_PQ35_INJ_2_RAIL_P_1: 0.00025
+  response: 7E8056210D30005
+- expected_values:
+    ATLAS_PQ35_INJ_2_RAIL_P_1: 0.0004
+  response: 7E8056210D30008
+- expected_values:
+    ATLAS_PQ35_INJ_2_RAIL_P_1: -0.0002
+  response: 7E8056210D3FFFC
+- expected_values:
+    ATLAS_PQ35_INJ_2_RAIL_P_1: -5.0000000000000002e-05
+  response: 7E8056210D3FFFF

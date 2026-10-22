@@ -1,6 +1,21 @@
 command_id: 7E1.7E9.22388B
 test_cases:
 - expected_values:
+    ATLAS_MQB_TCM_DRIVE_CYCLES_COUNTER: 3331
+  response: 7E90562388B030D
+- expected_values:
+    ATLAS_MQB_TCM_DRIVE_CYCLES_COUNTER: 3587
+  response: 7E90562388B030E
+- expected_values:
+    ATLAS_MQB_TCM_DRIVE_CYCLES_COUNTER: 3843
+  response: 7E90562388B030F
+- expected_values:
+    ATLAS_MQB_TCM_DRIVE_CYCLES_COUNTER: 4355
+  response: 7E90562388B0311
+- expected_values:
+    ATLAS_MQB_TCM_DRIVE_CYCLES_COUNTER: 4867
+  response: 7E90562388B0313
+- expected_values:
     ATLAS_MQB_TCM_DRIVE_CYCLES_COUNTER: 4365
   response: 7E90562388B0D11
 - expected_values:

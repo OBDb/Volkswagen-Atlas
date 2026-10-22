@@ -1,0 +1,17 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    ATLAS_CLIMATE_REFRIG_P: 17.4
+  response: 7B00462260557
+- expected_values:
+    ATLAS_CLIMATE_REFRIG_P: 17.6
+  response: 7B00462260558
+- expected_values:
+    ATLAS_CLIMATE_REFRIG_P: 18
+  response: 7B0046226055A
+- expected_values:
+    ATLAS_CLIMATE_REFRIG_P: 18.2
+  response: 7B0046226055B
+- expected_values:
+    ATLAS_CLIMATE_REFRIG_P: 18.4
+  response: 7B0046226055C

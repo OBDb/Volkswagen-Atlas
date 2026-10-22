@@ -4,17 +4,14 @@ test_cases:
     ATLAS_FUEL_LEVEL_INPUT_V1: 18
   response: 7E8056214B40708
 - expected_values:
-    ATLAS_FUEL_LEVEL_INPUT_V1: 43
-  response: 7E8056214B410CC
+    ATLAS_FUEL_LEVEL_INPUT_V1: 32
+  response: 7E8056214B40C80
 - expected_values:
-    ATLAS_FUEL_LEVEL_INPUT_V1: 61
-  response: 7E8056214B417D4
+    ATLAS_FUEL_LEVEL_INPUT_V1: 46
+  response: 7E8056214B411F8
 - expected_values:
-    ATLAS_FUEL_LEVEL_INPUT_V1: 63
-  response: 7E8056214B4189C
-- expected_values:
-    ATLAS_FUEL_LEVEL_INPUT_V1: 69
-  response: 7E8056214B41AF4
+    ATLAS_FUEL_LEVEL_INPUT_V1: 64
+  response: 7E8056214B41900
 - expected_values:
     ATLAS_FUEL_LEVEL_INPUT_V1: 70
   response: 7E8056214B41B58

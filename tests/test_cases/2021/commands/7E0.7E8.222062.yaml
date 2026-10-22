@@ -10,5 +10,5 @@ test_cases:
     ATLAS_APP_POS2: 0.767
   response: 7E80562206202FF
 - expected_values:
-    ATLAS_APP_POS2: 1.836
-  response: 7E805622062072C
+    ATLAS_APP_POS2: 2.07
+  response: '7E8056220620816'

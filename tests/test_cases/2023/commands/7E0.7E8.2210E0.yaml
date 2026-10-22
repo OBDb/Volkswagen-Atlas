@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.2210E0
 test_cases:
 - expected_values:
+    ATLAS_ODO: 80698
+  response: 7E8076210E000013B3A
+- expected_values:
     ATLAS_ODO: 138364
   response: 7E8076210E000021C7C
 - expected_values:
-    ATLAS_ODO: 138366
-  response: 7E8076210E000021C7E
-- expected_values:
-    ATLAS_ODO: 138447
-  response: 7E8076210E000021CCF
-- expected_values:
     ATLAS_ODO: 138508
   response: 7E8076210E000021D0C
-- expected_values:
-    ATLAS_ODO: 138699
-  response: 7E8076210E000021DCB
-- expected_values:
-    ATLAS_ODO: 139166
-  response: 7E8076210E000021F9E
-- expected_values:
-    ATLAS_ODO: 139167
-  response: 7E8076210E000021F9F
 - expected_values:
     ATLAS_ODO: 139222
   response: 7E8076210E000021FD6

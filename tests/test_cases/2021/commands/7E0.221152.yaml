@@ -1,29 +1,8 @@
 command_id: 7E0.221152
 test_cases:
 - expected_values:
-    ATLAS_MISFIRES__CYL__2: 11916
-  response: 7E8056211522E8C
-- expected_values:
-    ATLAS_MISFIRES__CYL__2: 11919
-  response: 7E8056211522E8F
-- expected_values:
-    ATLAS_MISFIRES__CYL__2: 11922
-  response: 7E8056211522E92
-- expected_values:
-    ATLAS_MISFIRES__CYL__2: 11925
-  response: 7E8056211522E95
-- expected_values:
-    ATLAS_MISFIRES__CYL__2: 11965
-  response: 7E8056211522EBD
-- expected_values:
-    ATLAS_MISFIRES__CYL__2: 11966
-  response: 7E8056211522EBE
-- expected_values:
-    ATLAS_MISFIRES__CYL__2: 11973
-  response: 7E8056211522EC5
+    ATLAS_MISFIRES__CYL__2: 229
+  response: 7E80562115200E5
 - expected_values:
     ATLAS_MISFIRES__CYL__2: 12075
   response: 7E8056211522F2B
-- expected_values:
-    ATLAS_MISFIRES__CYL__2: 12076
-  response: 7E8056211522F2C

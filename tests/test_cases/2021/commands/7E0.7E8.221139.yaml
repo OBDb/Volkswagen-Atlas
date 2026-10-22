@@ -10,5 +10,5 @@ test_cases:
     ATLAS_MEAN_INJ_QUANTITY: 168.93
   response: 7E80562113941FD
 - expected_values:
-    ATLAS_MEAN_INJ_QUANTITY: -20.39
-  response: 7E805621139F809
+    ATLAS_MEAN_INJ_QUANTITY: -4.84
+  response: 7E805621139FE1C

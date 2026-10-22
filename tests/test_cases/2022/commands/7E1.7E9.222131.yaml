@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.222131
+test_cases:
+- expected_values:
+    ATLAS_TORQUE_CONVERTER_SLIP_TCM: 27
+  response: 7E905622131001B
+- expected_values:
+    ATLAS_TORQUE_CONVERTER_SLIP_TCM: 29
+  response: 7E905622131001D
+- expected_values:
+    ATLAS_TORQUE_CONVERTER_SLIP_TCM: 36
+  response: '7E9056221310024'
+- expected_values:
+    ATLAS_TORQUE_CONVERTER_SLIP_TCM: 37
+  response: '7E9056221310025'
+- expected_values:
+    ATLAS_TORQUE_CONVERTER_SLIP_TCM: 44
+  response: 7E905622131002C
+- expected_values:
+    ATLAS_TORQUE_CONVERTER_SLIP_TCM: 46
+  response: 7E905622131002E

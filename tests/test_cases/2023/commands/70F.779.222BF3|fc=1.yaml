@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     ATLAS_PQ35_HAL_DUTY: 7.87373
   response: 77904622BF314
+- expected_values:
+    ATLAS_PQ35_HAL_DUTY: 12.20427
+  response: 77904622BF31F
+- expected_values:
+    ATLAS_PQ35_HAL_DUTY: 12.59796
+  response: 77904622BF320

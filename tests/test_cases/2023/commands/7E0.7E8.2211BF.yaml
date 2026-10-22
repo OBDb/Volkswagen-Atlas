@@ -4,20 +4,8 @@ test_cases:
     ATLAS_PQ35_FUEL_P_REG: 0.03
   response: 7E8056211BF0003
 - expected_values:
-    ATLAS_PQ35_FUEL_P_REG: 0.08
-  response: 7E8056211BF0008
+    ATLAS_PQ35_FUEL_P_REG: 0
+  response: 7E8056211BFFFEA
 - expected_values:
-    ATLAS_PQ35_FUEL_P_REG: 0.12
-  response: 7E8056211BF000C
-- expected_values:
-    ATLAS_PQ35_FUEL_P_REG: 0.13
-  response: 7E8056211BF000D
-- expected_values:
-    ATLAS_PQ35_FUEL_P_REG: 0.21
-  response: 7E8056211BF0015
-- expected_values:
-    ATLAS_PQ35_FUEL_P_REG: 0.24
-  response: 7E8056211BF0018
-- expected_values:
-    ATLAS_PQ35_FUEL_P_REG: 0.32
-  response: 7E8056211BF0020
+    ATLAS_PQ35_FUEL_P_REG: 0
+  response: 7E8056211BFFFFC

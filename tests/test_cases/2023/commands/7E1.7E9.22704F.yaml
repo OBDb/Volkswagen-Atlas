@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.22704F
 test_cases:
 - expected_values:
+    ATLAS_ATF_MAX: 97
+  response: 7E90462704F93
+- expected_values:
+    ATLAS_ATF_MAX: 98
+  response: 7E90462704F94
+- expected_values:
     ATLAS_ATF_MAX: 110
   response: 7E90462704FA0
