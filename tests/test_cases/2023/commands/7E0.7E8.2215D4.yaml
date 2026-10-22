@@ -10,5 +10,5 @@ test_cases:
     ATLAS_LAMBDA_OUTPUT: 1
   response: 7E8056215D48000
 - expected_values:
-    ATLAS_LAMBDA_OUTPUT: 1.08594
-  response: 7E8056215D48B00
+    ATLAS_LAMBDA_OUTPUT: 1.11301
+  response: 7E8056215D48E77
