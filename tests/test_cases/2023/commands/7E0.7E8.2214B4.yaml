@@ -4,8 +4,8 @@ test_cases:
     ATLAS_FUEL_LEVEL_INPUT_V1: 18
   response: 7E8056214B40708
 - expected_values:
-    ATLAS_FUEL_LEVEL_INPUT_V1: 31
-  response: 7E8056214B40C1C
+    ATLAS_FUEL_LEVEL_INPUT_V1: 27
+  response: 7E8056214B40A8C
 - expected_values:
     ATLAS_FUEL_LEVEL_INPUT_V1: 46
   response: 7E8056214B411F8
