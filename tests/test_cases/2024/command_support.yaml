@@ -190,6 +190,7 @@ supported_commands_by_ecu:
   - 0149:APP_D
   - 7E4.7EC.0104
   - 7E4.7EC.0105
+  - 7E4.7EC.010C
   - 7E4.7EC.010D
   - 7E4.7EC.0142
   - 7E4.7EC.220102
@@ -1681,7 +1682,6 @@ unsupported_commands_by_ecu:
   - 7E3.7EB.22E001
   - 7E3.7EB.22E009
   "7E4":
-  - 7E4.7EC.010C
   - 7E4.7EC.0131
   - 7E4.7EC.220101
   - 7E4.7EC.220103
