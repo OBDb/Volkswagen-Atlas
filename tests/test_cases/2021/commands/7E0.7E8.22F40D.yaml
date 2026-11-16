@@ -4,5 +4,8 @@ test_cases:
     ATLAS_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    ATLAS_VSS: 255
+    ATLAS_VSS: 151
+  response: 7E80462F40D97
+- expected_values:
+    ATLAS_VSS: null
   response: 7E80462F40DFF
